@@ -22,7 +22,7 @@ const MenuBar = () => {
   return (
     <Menu onClick={handleClick} selectedKeys={[current]} mode="horizontal">
       <Menu.Item key="apple">Apple</Menu.Item>
-      <Menu.Item key="samsung">Samsung</Menu.Item>
+      <Menu.Item key="xiaomi">Xiaomi</Menu.Item>
     </Menu>
   );
 };

@@ -1,8 +1,31 @@
 import React from "react";
 import Link from "next/link";
 
+const BarraProductosItem = (props) => {
+  const { data, item } = props;
+  const item_ = item - 1;
+
+  return (
+    <Link href={data[item_].modelo.replaceAll(" ", "-")}>
+      <div style={{ textAlign: "center", width: "160px" }}>
+        <img
+          src={data[item_].imagenes[0]}
+          alt=""
+          width={120}
+          height={120}
+          style={{ display: "inline" }}
+        />
+        <p>
+          <strong>{data[item_].modelo}</strong>
+          <br />${data[item_].precio}
+        </p>
+      </div>
+    </Link>
+  );
+};
+
 const BarraProductos = (props) => {
-  const { dataApple } = props;
+  const { data, items } = props;
 
   return (
     <>
@@ -14,61 +37,9 @@ const BarraProductos = (props) => {
             height: "200px",
           }}
         >
-          <div style={{ textAlign: "center", width: "160px" }}>
-            <img
-              src={dataApple[0].imagenes[0]}
-              alt=""
-              width={120}
-              height={120}
-              style={{ display: "inline" }}
-            />
-            {dataApple[0].modelo}
-          </div>
-          <div style={{ textAlign: "center", width: "160px" }}>
-            <img
-              src={dataApple[1].imagenes[0]}
-              alt=""
-              width={120}
-              height={120}
-              style={{ display: "inline" }}
-            />
-            {dataApple[1].modelo}
-          </div>
-          <div style={{ textAlign: "center", width: "160px" }}>
-            <img
-              src={dataApple[2].imagenes[0]}
-              alt=""
-              width={120}
-              height={120}
-              style={{ display: "inline" }}
-            />
-            {dataApple[5].modelo}
-          </div>
-          <div style={{ textAlign: "center", width: "160px" }}>
-            <img
-              src={dataApple[3].imagenes[0]}
-              alt=""
-              width={120}
-              height={120}
-              style={{ display: "inline" }}
-            />
-            {dataApple[3].modelo}
-          </div>
-          <div
-            style={{
-              textAlign: "center",
-              width: "160px",
-            }}
-          >
-            <img
-              src={dataApple[4].imagenes[0]}
-              alt=""
-              width={120}
-              height={120}
-              style={{ display: "inline" }}
-            />
-            {dataApple[4].modelo}
-          </div>
+          {items.map((item) => (
+            <BarraProductosItem data={data} item={item} />
+          ))}
         </div>
       </div>
     </>

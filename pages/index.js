@@ -26,9 +26,11 @@ const contentStyle = {
 
 export default function Home() {
   const [dataApple, setDataApple] = useState([]);
+  const [dataXiaomi, setDataXiaomi] = useState([]);
 
   useEffect(() => {
     setDataApple(celulares.filter((celu) => celu.marca === "iphone"));
+    setDataXiaomi(celulares.filter((celu) => celu.marca === "xiaomi"));
   }, []);
 
   return (
@@ -63,7 +65,7 @@ export default function Home() {
       </Head>
       <div style={{ padding: "1rem" }}>
         <Row type="flex" justify="center" gutter={[40, 40]}>
-          <Col span={20}>
+          <Col xs={24} lg={20}>
             <Row type="flex" justify="center" gutter={[40, 40]}>
               <Col span={4}>
                 <img src="/assets/logo.jpg" alt="" width={60} height={60} />
@@ -96,15 +98,47 @@ export default function Home() {
             <br />
             <Row type="flex" justify="center">
               <Col span={24} style={{ textAlign: "center" }}>
-                <Divider>Apple</Divider>
+                <Divider orientation="left">Apple</Divider>
+              </Col>
+              <Col xs={0} lg={24}>
+                {dataApple.length > 0 && (
+                  <Carousel effect="fade">
+                    <BarraProductos data={dataApple} items={[1, 2, 3, 4, 5]} />
+                    <BarraProductos data={dataApple} items={[6, 7, 8, 9, 10]} />
+                    <BarraProductos
+                      data={dataApple}
+                      items={[11, 12, 13, 14, 15]}
+                    />
+                    <BarraProductos
+                      data={dataApple}
+                      items={[16, 17, 18, 19, 20]}
+                    />
+                  </Carousel>
+                )}
+              </Col>
+              <Col xs={24} lg={0}>
+                {dataApple.length > 0 && (
+                  <Carousel effect="fade">
+                    <BarraProductos data={dataApple} items={[1, 2]} />
+                    <BarraProductos data={dataApple} items={[3, 4]} />
+                    <BarraProductos data={dataApple} items={[5, 6]} />
+                    <BarraProductos data={dataApple} items={[7, 8]} />
+                    <BarraProductos data={dataApple} items={[9, 10]} />
+                    <BarraProductos data={dataApple} items={[11, 12]} />
+                    <BarraProductos data={dataApple} items={[13, 14]} />
+                  </Carousel>
+                )}
+              </Col>
+            </Row>
+            <br />
+            <Row type="flex" justify="center">
+              <Col span={24} style={{ textAlign: "center" }}>
+                <Divider orientation="left">Xiaomi</Divider>
               </Col>
               <Col span={24}>
                 {dataApple.length > 0 && (
                   <Carousel effect="fade">
-                    <BarraProductos dataApple={dataApple} />
-                    <BarraProductos dataApple={dataApple} />
-                    <BarraProductos dataApple={dataApple} />
-                    <BarraProductos dataApple={dataApple} />
+                    <BarraProductos data={dataXiaomi} items={[1, 2]} />
                   </Carousel>
                 )}
               </Col>
