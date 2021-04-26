@@ -1,11 +1,20 @@
 import { useEffect, useState } from "react";
 import { Row, Col, Carousel, Divider } from "antd";
 import Head from "next/head";
-import Link from "next/link";
 import css from "styled-jsx/css";
 import { celulares } from "../config/celulares.json";
+import MenuBar from "../components/Header/MenuBar";
+import BarraProductos from "../components/common/BarraProductos";
 
-const stylesCss = css.global``;
+const stylesCss = css.global`
+  .ant-carousel .slick-dots li button {
+    background: #23a34e;
+  }
+  .ant-carousel .slick-dots li.slick-active button {
+    background: #23a34e;
+    opacity: 1;
+  }
+`;
 
 const contentStyle = {
   height: "160px",
@@ -59,14 +68,27 @@ export default function Home() {
               <Col span={4}>
                 <img src="/assets/logo.jpg" alt="" width={60} height={60} />
               </Col>
-              <Col span={20}>MENU</Col>
+              <Col span={20}>
+                <MenuBar />
+              </Col>
             </Row>
             <br />
             <Row type="flex" justify="center" gutter={[40, 40]}>
               <Col span={24}>
                 <Carousel effect="fade">
                   <div>
-                    <h3 style={contentStyle}>1</h3>
+                    <div style={{ textAlign: "center" }}>
+                      <img
+                        src="/assets/imgs/banners/banner.png"
+                        alt=""
+                        width={1920}
+                        // height="100%"
+                        style={{
+                          maxWidth: "100%",
+                          display: "inline",
+                        }}
+                      />
+                    </div>
                   </div>
                 </Carousel>
               </Col>
@@ -79,96 +101,12 @@ export default function Home() {
               <Col span={24}>
                 {dataApple.length > 0 && (
                   <Carousel effect="fade">
-                    <div>
-                      <div
-                        style={{
-                          display: "flex",
-                          justifyContent: "space-around",
-                        }}
-                      >
-                        <Link href={dataApple[0].modelo.replaceAll(" ", "-")}>
-                          <div style={{ textAlign: "center" }}>
-                            <img
-                              src={dataApple[0].imagenes[0]}
-                              alt=""
-                              width={120}
-                              height={120}
-                            />
-                            {dataApple[0].modelo}
-                          </div>
-                        </Link>
-                        <Link href={dataApple[1].modelo.replaceAll(" ", "-")}>
-                          <div style={{ textAlign: "center" }}>
-                            <img
-                              src={dataApple[1].imagenes[0]}
-                              alt=""
-                              width={120}
-                              height={120}
-                            />
-                            {dataApple[1].modelo}
-                          </div>
-                        </Link>
-                        <div>
-                          <img
-                            src={dataApple[2].imagenes[0]}
-                            alt=""
-                            width={120}
-                            height={120}
-                          />
-                        </div>
-                        <div>
-                          <img
-                            src={dataApple[3].imagenes[0]}
-                            alt=""
-                            width={120}
-                            height={120}
-                          />
-                        </div>
-                        <div>
-                          <img
-                            src={dataApple[4].imagenes[0]}
-                            alt=""
-                            width={120}
-                            height={120}
-                          />
-                        </div>
-                      </div>
-                    </div>
-                    <div>
-                      <h3 style={contentStyle}>2</h3>
-                    </div>
-                    <div>
-                      <h3 style={contentStyle}>3</h3>
-                    </div>
-                    <div>
-                      <h3 style={contentStyle}>4</h3>
-                    </div>
+                    <BarraProductos dataApple={dataApple} />
+                    <BarraProductos dataApple={dataApple} />
+                    <BarraProductos dataApple={dataApple} />
+                    <BarraProductos dataApple={dataApple} />
                   </Carousel>
                 )}
-              </Col>
-            </Row>
-            <br />
-            <Row type="flex" justify="center">
-              <Col span={24}>
-                <Col span={24} style={{ textAlign: "center" }}>
-                  <Divider>Samsung</Divider>
-                </Col>
-              </Col>
-              <Col span={24}>
-                <Carousel effect="fade">
-                  <div>
-                    <h3 style={contentStyle}>1</h3>
-                  </div>
-                  <div>
-                    <div style={{ backgroundColor: "red" }}>hola que tal</div>
-                  </div>
-                  <div>
-                    <h3 style={contentStyle}>3</h3>
-                  </div>
-                  <div>
-                    <h3 style={contentStyle}>4</h3>
-                  </div>
-                </Carousel>
               </Col>
             </Row>
           </Col>
