@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { Row, Col, Carousel, Divider } from "antd";
 import Head from "next/head";
+import Link from "next/link";
 import css from "styled-jsx/css";
 import { celulares } from "../config/celulares.json";
 import MenuBar from "../components/Header/MenuBar";
@@ -68,7 +69,9 @@ export default function Home() {
           <Col xs={24} lg={20}>
             <Row type="flex" justify="center" gutter={[40, 40]}>
               <Col span={4}>
-                <img src="/assets/logo.jpg" alt="" width={60} height={60} />
+                <Link href="/">
+                  <img src="/assets/logo.jpg" alt="" width={60} height={60} />
+                </Link>
               </Col>
               <Col span={20}>
                 <MenuBar />

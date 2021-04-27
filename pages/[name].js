@@ -1,8 +1,22 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/router";
-import { Row, Col } from "antd";
+import Link from "next/link";
+import { Row, Col, Button, Image, Carousel } from "antd";
+import { WhatsAppOutlined } from "@ant-design/icons";
 import Head from "next/head";
+import css from "styled-jsx/css";
 import { celulares } from "../config/celulares.json";
+import MenuBar from "../components/Header/MenuBar";
+
+const stylesCss = css.global`
+  .ant-carousel .slick-dots li button {
+    background: #23a34e;
+  }
+  .ant-carousel .slick-dots li.slick-active button {
+    background: #23a34e;
+    opacity: 1;
+  }
+`;
 
 const Post = () => {
   const router = useRouter();
@@ -12,6 +26,7 @@ const Post = () => {
     modelo: "",
     precio: "",
     marca: "",
+    imagenes: [1, 2],
   });
 
   useEffect(() => {
@@ -24,6 +39,9 @@ const Post = () => {
 
   return (
     <div>
+      <style jsx global>
+        {stylesCss}
+      </style>
       <Head>
         <meta charSet="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -39,18 +57,49 @@ const Post = () => {
       </Head>
       <div style={{ padding: "1rem" }}>
         <Row type="flex" justify="center" gutter={[40, 40]}>
-          <Col span={20}>
+          <Col xs={24} lg={20}>
             <Row type="flex" justify="center" gutter={[40, 40]}>
               <Col span={4}>
-                <img src="/assets/logo.jpg" alt="" width={60} height={60} />
+                <Link href="/">
+                  <img src="/assets/logo.jpg" alt="" width={60} height={60} />
+                </Link>
               </Col>
-              <Col span={20}>MENU</Col>
+              <Col span={20}>
+                <MenuBar />
+              </Col>
             </Row>
             <br />
             <Row type="flex" justify="center" gutter={[40, 40]}>
-              <Col span={24}>
-                <pre>{JSON.stringify(dataProducto)}</pre>-
-                <code>{JSON.stringify(dataProducto)}</code>
+              <Col xs={24} lg={7}>
+                <Carousel>
+                  <div>
+                    <Image width="100%" src={dataProducto.imagenes[0]} />
+                  </div>
+                  <div>
+                    <Image width="100%" src={dataProducto.imagenes[1]} />
+                  </div>
+                </Carousel>
+              </Col>
+              <Col xs={24} lg={17}>
+                <strong>{dataProducto.marca}</strong>
+                <br />
+                <span style={{ fontSize: "20px" }}>{dataProducto.modelo}</span>
+                <br />${dataProducto.precio}
+                <br />
+                <br />
+                <a
+                  href={`https://api.whatsapp.com/send?phone=17866160509&text=Hola, tengo una consulta para el ${dataProducto.modelo}`}
+                  target="_blank"
+                >
+                  <Button
+                    type="primary"
+                    shape="round"
+                    icon={<WhatsAppOutlined />}
+                    size
+                  >
+                    Consultar
+                  </Button>
+                </a>
               </Col>
             </Row>
           </Col>
