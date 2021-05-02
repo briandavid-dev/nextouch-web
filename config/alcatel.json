@@ -2,7 +2,7 @@
   {
     "modelo": "A1",
     "precio": "44",
-    "marca": "alcatel",
+    "marca": "Alcatel",
     "imagenes": [
       "/assets/productos/ALCATEL/A1/1.jpg",
       "/assets/productos/ALCATEL/A1/2.jpg"
@@ -11,7 +11,7 @@
   {
     "modelo": "A1S",
     "precio": "75",
-    "marca": "alcatel",
+    "marca": "Alcatel",
     "imagenes": [
       "/assets/productos/ALCATEL/A1/1.jpg",
       "/assets/productos/ALCATEL/A1/2.jpg"

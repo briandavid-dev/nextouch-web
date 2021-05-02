@@ -6,7 +6,22 @@ import { WhatsAppOutlined } from "@ant-design/icons";
 import Head from "next/head";
 import css from "styled-jsx/css";
 import { celulares } from "../config/celulares.json";
+import jsonXiaomi from "../config/xiaomi.json";
+import jsonSamsung from "../config/samsung.json";
+import jsonAlcatel from "../config/alcatel.json";
 import MenuBar from "../components/Header/MenuBar";
+import ProductosIphone from "../components/Home/ProductosIphone";
+import ProductosSamsung from "../components/Home/ProductosSamsung";
+import ProductosXiaomi from "../components/Home/ProductosXiaomi";
+import ProductosAlcatel from "../components/Home/ProductosAlcatel";
+import Footer from "../components/Footer";
+
+const celularesMerge = [
+  ...celulares,
+  ...jsonXiaomi,
+  ...jsonSamsung,
+  ...jsonAlcatel,
+];
 
 const stylesCss = css.global`
   .ant-carousel .slick-dots li button {
@@ -32,13 +47,29 @@ const Post = () => {
   useEffect(() => {
     if (name) {
       setDataProducto(
-        celulares.find((celu) => celu.modelo === name.replaceAll("-", " "))
+        celularesMerge.find((celu) => celu.modelo === name.replaceAll("-", " "))
       );
     }
   }, [name]);
 
+  const renderBarraMarca = (marca) => {
+    let retVal = null;
+
+    if (marca === "Iphone") {
+      retVal = <ProductosIphone />;
+    } else if (marca === "Samsung") {
+      retVal = <ProductosSamsung />;
+    } else if (marca === "Xiaomi") {
+      retVal = <ProductosXiaomi />;
+    } else if (marca === "Alcatel") {
+      retVal = <ProductosAlcatel />;
+    }
+
+    return retVal;
+  };
+
   return (
-    <div>
+    <>
       <style jsx global>
         {stylesCss}
       </style>
@@ -56,7 +87,7 @@ const Post = () => {
         <title>Online</title>
       </Head>
       <div style={{ padding: "1rem" }}>
-        <Row type="flex" justify="center" gutter={[40, 40]}>
+        <Row type="flex" justify="center">
           <Col xs={24} lg={20}>
             <Row type="flex" justify="center" gutter={[40, 40]}>
               <Col span={4}>
@@ -84,7 +115,8 @@ const Post = () => {
                 <strong>{dataProducto.marca}</strong>
                 <br />
                 <span style={{ fontSize: "20px" }}>{dataProducto.modelo}</span>
-                <br />${dataProducto.precio}
+                <br />
+                {dataProducto.precio && <>${dataProducto.precio}</>}
                 <br />
                 <br />
                 <a
@@ -104,8 +136,17 @@ const Post = () => {
             </Row>
           </Col>
         </Row>
+        <br />
+        <br />
+        <Row type="flex" justify="center">
+          <Col xs={24} lg={20}>
+            {renderBarraMarca(dataProducto.marca)}
+          </Col>
+        </Row>
       </div>
-    </div>
+
+      <Footer />
+    </>
   );
 };
 

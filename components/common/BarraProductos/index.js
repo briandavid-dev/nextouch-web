@@ -7,7 +7,10 @@ const BarraProductosItem = (props) => {
 
   return (
     <Link href={data[item_].modelo.replaceAll(" ", "-")}>
-      <div style={{ textAlign: "center", width: "160px" }}>
+      <div
+        style={{ textAlign: "center", width: "160px" }}
+        className="cursor-pointer hover-product"
+      >
         <img
           src={data[item_].imagenes[0]}
           alt=""
@@ -38,8 +41,8 @@ const BarraProductos = (props) => {
             height: "200px",
           }}
         >
-          {items.map((item) => (
-            <BarraProductosItem data={data} item={item} />
+          {items.map((item, key) => (
+            <BarraProductosItem data={data} item={item} key={key} />
           ))}
         </div>
       </div>
