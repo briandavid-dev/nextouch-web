@@ -4,11 +4,11 @@
     "precio": "90",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/A01/1.png",
-      "/assets/productos/SAMSUNG/A01/2.png",
-      "/assets/productos/SAMSUNG/A01/3.png",
-      "/assets/productos/SAMSUNG/A01/4.png",
-      "/assets/productos/SAMSUNG/A01/5.png"
+      "/assets/productos/SAMSUNG/A01/1.jpg",
+      "/assets/productos/SAMSUNG/A01/2.jpg",
+      "/assets/productos/SAMSUNG/A01/3.jpg",
+      "/assets/productos/SAMSUNG/A01/4.jpg",
+      "/assets/productos/SAMSUNG/A01/5.jpg"
     ]
   },
   {
@@ -16,8 +16,8 @@
     "precio": "116",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/A10S/1.png",
-      "/assets/productos/SAMSUNG/A10S/2.png"
+      "/assets/productos/SAMSUNG/A10S/1.jpg",
+      "/assets/productos/SAMSUNG/A10S/2.jpg"
     ]
   },
   {
@@ -25,8 +25,8 @@
     "precio": "135",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/A20S/1.png",
-      "/assets/productos/SAMSUNG/A20S/2.png"
+      "/assets/productos/SAMSUNG/A20S/1.jpg",
+      "/assets/productos/SAMSUNG/A20S/2.jpg"
     ]
   },
   {
@@ -34,8 +34,8 @@
     "precio": "200",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/A31/1.png",
-      "/assets/productos/SAMSUNG/A31/2.png"
+      "/assets/productos/SAMSUNG/A31/1.jpg",
+      "/assets/productos/SAMSUNG/A31/2.jpg"
     ]
   },
   {
@@ -43,8 +43,8 @@
     "precio": "251",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/A51/1.png",
-      "/assets/productos/SAMSUNG/A51/2.png"
+      "/assets/productos/SAMSUNG/A51/1.jpg",
+      "/assets/productos/SAMSUNG/A51/2.jpg"
     ]
   },
   {
@@ -52,8 +52,8 @@
     "precio": "326",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/A71/1.png",
-      "/assets/productos/SAMSUNG/A71/2.png"
+      "/assets/productos/SAMSUNG/A71/1.jpg",
+      "/assets/productos/SAMSUNG/A71/2.jpg"
     ]
   },
   {
@@ -61,8 +61,8 @@
     "precio": "76",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/J260/1.png",
-      "/assets/productos/SAMSUNG/J260/2.png"
+      "/assets/productos/SAMSUNG/J260/1.jpg",
+      "/assets/productos/SAMSUNG/J260/2.jpg"
     ]
   },
   {
@@ -70,8 +70,8 @@
     "precio": "126",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/A11/1.png",
-      "/assets/productos/SAMSUNG/A11/2.png"
+      "/assets/productos/SAMSUNG/A11/1.jpg",
+      "/assets/productos/SAMSUNG/A11/2.jpg"
     ]
   },
   {
@@ -79,8 +79,8 @@
     "precio": "174",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/A21S/1.png",
-      "/assets/productos/SAMSUNG/A21S/2.png"
+      "/assets/productos/SAMSUNG/A21S/1.jpg",
+      "/assets/productos/SAMSUNG/A21S/2.jpg"
     ]
   },
   {
@@ -88,8 +88,8 @@
     "precio": "292",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/A70/1.png",
-      "/assets/productos/SAMSUNG/A70/2.png"
+      "/assets/productos/SAMSUNG/A70/1.jpg",
+      "/assets/productos/SAMSUNG/A70/2.jpg"
     ]
   },
   {
@@ -97,8 +97,8 @@
     "precio": "527",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/S10/1.png",
-      "/assets/productos/SAMSUNG/S10/2.png"
+      "/assets/productos/SAMSUNG/S10/1.jpg",
+      "/assets/productos/SAMSUNG/S10/2.jpg"
     ]
   },
   {
@@ -106,8 +106,8 @@
     "precio": "575",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/S10PLUS/1.png",
-      "/assets/productos/SAMSUNG/S10PLUS/2.png"
+      "/assets/productos/SAMSUNG/S10PLUS/1.jpg",
+      "/assets/productos/SAMSUNG/S10PLUS/2.jpg"
     ]
   },
   {
@@ -115,8 +115,8 @@
     "precio": "675",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/S20/1.png",
-      "/assets/productos/SAMSUNG/S20/2.png"
+      "/assets/productos/SAMSUNG/S20/1.jpg",
+      "/assets/productos/SAMSUNG/S20/2.jpg"
     ]
   },
   {
@@ -124,8 +124,8 @@
     "precio": "683",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/S20PLUS/1.png",
-      "/assets/productos/SAMSUNG/S20PLUS/2.png"
+      "/assets/productos/SAMSUNG/S20PLUS/1.jpg",
+      "/assets/productos/SAMSUNG/S20PLUS/2.jpg"
     ]
   },
   {
@@ -133,8 +133,8 @@
     "precio": "600",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/NOTE10/1.png",
-      "/assets/productos/SAMSUNG/NOTE10/2.png"
+      "/assets/productos/SAMSUNG/NOTE10/1.jpg",
+      "/assets/productos/SAMSUNG/NOTE10/2.jpg"
     ]
   },
   {
@@ -142,8 +142,8 @@
     "precio": "985",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/S20ULTRA/1.png",
-      "/assets/productos/SAMSUNG/S20ULTRA/2.png"
+      "/assets/productos/SAMSUNG/S20ULTRA/1.jpg",
+      "/assets/productos/SAMSUNG/S20ULTRA/2.jpg"
     ]
   },
   {
@@ -151,8 +151,8 @@
     "precio": "639",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/NOTE10LITE/1.png",
-      "/assets/productos/SAMSUNG/NOTE10LITE/2.png"
+      "/assets/productos/SAMSUNG/NOTE10LITE/1.jpg",
+      "/assets/productos/SAMSUNG/NOTE10LITE/2.jpg"
     ]
   },
   {
@@ -160,8 +160,8 @@
     "precio": "1098",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/FLIP/1.png",
-      "/assets/productos/SAMSUNG/FLIP/2.png"
+      "/assets/productos/SAMSUNG/FLIP/1.jpg",
+      "/assets/productos/SAMSUNG/FLIP/2.jpg"
     ]
   },
   {
@@ -169,8 +169,8 @@
     "precio": "119",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/TABLETT290/1.png",
-      "/assets/productos/SAMSUNG/TABLETT290/2.png"
+      "/assets/productos/SAMSUNG/TABLETT290/1.jpg",
+      "/assets/productos/SAMSUNG/TABLETT290/2.jpg"
     ]
   },
   {
@@ -178,8 +178,8 @@
     "precio": "230",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/T515/1.png",
-      "/assets/productos/SAMSUNG/T515/2.png"
+      "/assets/productos/SAMSUNG/T515/1.jpg",
+      "/assets/productos/SAMSUNG/T515/2.jpg"
     ]
   },
   {
@@ -187,8 +187,8 @@
     "precio": "188",
     "marca": "Samsung",
     "imagenes": [
-      "/assets/productos/SAMSUNG/T510N/1.png",
-      "/assets/productos/SAMSUNG/T510N/2.png"
+      "/assets/productos/SAMSUNG/T510N/1.jpg",
+      "/assets/productos/SAMSUNG/T510N/2.jpg"
     ]
   }
 ]

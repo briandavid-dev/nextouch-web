@@ -22,8 +22,8 @@
     "precio": "",
     "marca": "xiaomi",
     "imagenes": [
-      "/assets/productos/XIAOMI/XIAOMI7A/1.png",
-      "/assets/productos/XIAOMI/XIAOMI7A/2.png"
+      "/assets/productos/XIAOMI/XIAOMI7A/1.jpg",
+      "/assets/productos/XIAOMI/XIAOMI7A/2.jpg"
     ]
   },
   {
@@ -31,8 +31,8 @@
     "precio": "",
     "marca": "xiaomi",
     "imagenes": [
-      "/assets/productos/XIAOMI/XIAOMI8A/1.png",
-      "/assets/productos/XIAOMI/XIAOMI8A/2.png"
+      "/assets/productos/XIAOMI/XIAOMI8A/1.jpg",
+      "/assets/productos/XIAOMI/XIAOMI8A/2.jpg"
     ]
   },
   {
@@ -40,8 +40,8 @@
     "precio": "",
     "marca": "xiaomi",
     "imagenes": [
-      "/assets/productos/XIAOMI/MI8/1.png",
-      "/assets/productos/XIAOMI/MI8/2.png"
+      "/assets/productos/XIAOMI/MI8/1.jpg",
+      "/assets/productos/XIAOMI/MI8/2.jpg"
     ]
   },
   {
@@ -49,8 +49,8 @@
     "precio": "",
     "marca": "xiaomi",
     "imagenes": [
-      "/assets/productos/XIAOMI/NOTE8/1.png",
-      "/assets/productos/XIAOMI/NOTE8/2.png"
+      "/assets/productos/XIAOMI/NOTE8/1.jpg",
+      "/assets/productos/XIAOMI/NOTE8/2.jpg"
     ]
   },
   {
@@ -58,8 +58,8 @@
     "precio": "155",
     "marca": "xiaomi",
     "imagenes": [
-      "/assets/productos/XIAOMI/NOTE8/1.png",
-      "/assets/productos/XIAOMI/NOTE8/2.png"
+      "/assets/productos/XIAOMI/NOTE8/1.jpg",
+      "/assets/productos/XIAOMI/NOTE8/2.jpg"
     ]
   },
   {
@@ -67,8 +67,8 @@
     "precio": "185",
     "marca": "xiaomi",
     "imagenes": [
-      "/assets/productos/XIAOMI/NOTE8PRO/1.png",
-      "/assets/productos/XIAOMI/NOTE8PRO/2.png"
+      "/assets/productos/XIAOMI/NOTE8PRO/1.jpg",
+      "/assets/productos/XIAOMI/NOTE8PRO/2.jpg"
     ]
   },
   {
@@ -76,8 +76,8 @@
     "precio": "193",
     "marca": "xiaomi",
     "imagenes": [
-      "/assets/productos/XIAOMI/NOTE8PRO/1.png",
-      "/assets/productos/XIAOMI/NOTE8PRO/2.png"
+      "/assets/productos/XIAOMI/NOTE8PRO/1.jpg",
+      "/assets/productos/XIAOMI/NOTE8PRO/2.jpg"
     ]
   },
   {
@@ -85,8 +85,8 @@
     "precio": "178",
     "marca": "xiaomi",
     "imagenes": [
-      "/assets/productos/XIAOMI/NOTE9S/1.png",
-      "/assets/productos/XIAOMI/NOTE9S/2.png"
+      "/assets/productos/XIAOMI/NOTE9S/1.jpg",
+      "/assets/productos/XIAOMI/NOTE9S/2.jpg"
     ]
   },
   {
@@ -94,8 +94,8 @@
     "precio": "196",
     "marca": "xiaomi",
     "imagenes": [
-      "/assets/productos/XIAOMI/NOTE9S/1.png",
-      "/assets/productos/XIAOMI/NOTE9S/2.png"
+      "/assets/productos/XIAOMI/NOTE9S/1.jpg",
+      "/assets/productos/XIAOMI/NOTE9S/2.jpg"
     ]
   },
   {
@@ -103,8 +103,8 @@
     "precio": "121",
     "marca": "xiaomi",
     "imagenes": [
-      "/assets/productos/XIAOMI/REDMI9/1.png",
-      "/assets/productos/XIAOMI/REDMI9/2.png"
+      "/assets/productos/XIAOMI/REDMI9/1.jpg",
+      "/assets/productos/XIAOMI/REDMI9/2.jpg"
     ]
   },
   {
@@ -112,8 +112,8 @@
     "precio": "121",
     "marca": "xiaomi",
     "imagenes": [
-      "/assets/productos/XIAOMI/NOTE9/1.png",
-      "/assets/productos/XIAOMI/NOTE9/2.png"
+      "/assets/productos/XIAOMI/NOTE9/1.jpg",
+      "/assets/productos/XIAOMI/NOTE9/2.jpg"
     ]
   },
   {
@@ -121,8 +121,8 @@
     "precio": "152",
     "marca": "xiaomi",
     "imagenes": [
-      "/assets/productos/XIAOMI/NOTE9/1.png",
-      "/assets/productos/XIAOMI/NOTE9/2.png"
+      "/assets/productos/XIAOMI/NOTE9/1.jpg",
+      "/assets/productos/XIAOMI/NOTE9/2.jpg"
     ]
   },
   {
@@ -130,8 +130,8 @@
     "precio": "204",
     "marca": "xiaomi",
     "imagenes": [
-      "/assets/productos/XIAOMI/NOTE9PRO/1.png",
-      "/assets/productos/XIAOMI/NOTE9PRO/2.png"
+      "/assets/productos/XIAOMI/NOTE9PRO/1.jpg",
+      "/assets/productos/XIAOMI/NOTE9PRO/2.jpg"
     ]
   },
   {
@@ -139,8 +139,8 @@
     "precio": "",
     "marca": "xiaomi",
     "imagenes": [
-      "/assets/productos/XIAOMI/NOTE9PRO/1.png",
-      "/assets/productos/XIAOMI/NOTE9PRO/2.png"
+      "/assets/productos/XIAOMI/NOTE9PRO/1.jpg",
+      "/assets/productos/XIAOMI/NOTE9PRO/2.jpg"
     ]
   },
   {
@@ -148,8 +148,8 @@
     "precio": "102",
     "marca": "xiaomi",
     "imagenes": [
-      "/assets/productos/XIAOMI/XIAOMI9C/1.png",
-      "/assets/productos/XIAOMI/XIAOMI9C/2.png"
+      "/assets/productos/XIAOMI/XIAOMI9C/1.jpg",
+      "/assets/productos/XIAOMI/XIAOMI9C/2.jpg"
     ]
   },
   {
@@ -157,8 +157,8 @@
     "precio": "113",
     "marca": "xiaomi",
     "imagenes": [
-      "/assets/productos/XIAOMI/XIAOMI9C/1.png",
-      "/assets/productos/XIAOMI/XIAOMI9C/2.png"
+      "/assets/productos/XIAOMI/XIAOMI9C/1.jpg",
+      "/assets/productos/XIAOMI/XIAOMI9C/2.jpg"
     ]
   }
 ]

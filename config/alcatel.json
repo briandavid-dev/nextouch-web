@@ -4,8 +4,8 @@
     "precio": "44",
     "marca": "alcatel",
     "imagenes": [
-      "/assets/productos/ALCATEL/A1/1.png",
-      "/assets/productos/ALCATEL/A1/2.png"
+      "/assets/productos/ALCATEL/A1/1.jpg",
+      "/assets/productos/ALCATEL/A1/2.jpg"
     ]
   },
   {
@@ -13,8 +13,8 @@
     "precio": "75",
     "marca": "alcatel",
     "imagenes": [
-      "/assets/productos/ALCATEL/A1/1.png",
-      "/assets/productos/ALCATEL/A1/2.png"
+      "/assets/productos/ALCATEL/A1/1.jpg",
+      "/assets/productos/ALCATEL/A1/2.jpg"
     ]
   }
 ]
