@@ -16,5 +16,149 @@
       "https://nextouchonline.com/assets/items/XIAOMI119A/1.png",
       "https://nextouchonline.com/assets/items/XIAOMI119A/2.png"
     ]
+  },
+  {
+    "modelo": "XIAOMI 7A 32 GB",
+    "precio": "",
+    "marca": "xiaomi",
+    "imagenes": [
+      "/assets/productos/XIAOMI/XIAOMI7A/1.png",
+      "/assets/productos/XIAOMI/XIAOMI7A/2.png"
+    ]
+  },
+  {
+    "modelo": "XIAOMI 8A 32 GB",
+    "precio": "",
+    "marca": "xiaomi",
+    "imagenes": [
+      "/assets/productos/XIAOMI/XIAOMI8A/1.png",
+      "/assets/productos/XIAOMI/XIAOMI8A/2.png"
+    ]
+  },
+  {
+    "modelo": "MI8",
+    "precio": "",
+    "marca": "xiaomi",
+    "imagenes": [
+      "/assets/productos/XIAOMI/MI8/1.png",
+      "/assets/productos/XIAOMI/MI8/2.png"
+    ]
+  },
+  {
+    "modelo": "NOTE 8 64 GB",
+    "precio": "",
+    "marca": "xiaomi",
+    "imagenes": [
+      "/assets/productos/XIAOMI/NOTE8/1.png",
+      "/assets/productos/XIAOMI/NOTE8/2.png"
+    ]
+  },
+  {
+    "modelo": "NOTE 8 128 GB",
+    "precio": "155",
+    "marca": "xiaomi",
+    "imagenes": [
+      "/assets/productos/XIAOMI/NOTE8/1.png",
+      "/assets/productos/XIAOMI/NOTE8/2.png"
+    ]
+  },
+  {
+    "modelo": "NOTE 8 PRO 64 GB",
+    "precio": "185",
+    "marca": "xiaomi",
+    "imagenes": [
+      "/assets/productos/XIAOMI/NOTE8PRO/1.png",
+      "/assets/productos/XIAOMI/NOTE8PRO/2.png"
+    ]
+  },
+  {
+    "modelo": "NOTE 8 PRO 128 GB",
+    "precio": "193",
+    "marca": "xiaomi",
+    "imagenes": [
+      "/assets/productos/XIAOMI/NOTE8PRO/1.png",
+      "/assets/productos/XIAOMI/NOTE8PRO/2.png"
+    ]
+  },
+  {
+    "modelo": "NOTE 9 S 64 GB",
+    "precio": "178",
+    "marca": "xiaomi",
+    "imagenes": [
+      "/assets/productos/XIAOMI/NOTE9S/1.png",
+      "/assets/productos/XIAOMI/NOTE9S/2.png"
+    ]
+  },
+  {
+    "modelo": "NOTE 9 S 128 GB",
+    "precio": "196",
+    "marca": "xiaomi",
+    "imagenes": [
+      "/assets/productos/XIAOMI/NOTE9S/1.png",
+      "/assets/productos/XIAOMI/NOTE9S/2.png"
+    ]
+  },
+  {
+    "modelo": "REDMI 9 64 GB",
+    "precio": "121",
+    "marca": "xiaomi",
+    "imagenes": [
+      "/assets/productos/XIAOMI/REDMI9/1.png",
+      "/assets/productos/XIAOMI/REDMI9/2.png"
+    ]
+  },
+  {
+    "modelo": "NOTE 9 64 GB",
+    "precio": "121",
+    "marca": "xiaomi",
+    "imagenes": [
+      "/assets/productos/XIAOMI/NOTE9/1.png",
+      "/assets/productos/XIAOMI/NOTE9/2.png"
+    ]
+  },
+  {
+    "modelo": "NOTE 9 128 GB",
+    "precio": "152",
+    "marca": "xiaomi",
+    "imagenes": [
+      "/assets/productos/XIAOMI/NOTE9/1.png",
+      "/assets/productos/XIAOMI/NOTE9/2.png"
+    ]
+  },
+  {
+    "modelo": "NOTE 9 PRO 64 GB",
+    "precio": "204",
+    "marca": "xiaomi",
+    "imagenes": [
+      "/assets/productos/XIAOMI/NOTE9PRO/1.png",
+      "/assets/productos/XIAOMI/NOTE9PRO/2.png"
+    ]
+  },
+  {
+    "modelo": "NOTE 9 PRO 128 GB",
+    "precio": "",
+    "marca": "xiaomi",
+    "imagenes": [
+      "/assets/productos/XIAOMI/NOTE9PRO/1.png",
+      "/assets/productos/XIAOMI/NOTE9PRO/2.png"
+    ]
+  },
+  {
+    "modelo": "XIAOMI 9C 32 GB",
+    "precio": "102",
+    "marca": "xiaomi",
+    "imagenes": [
+      "/assets/productos/XIAOMI/XIAOMI9C/1.png",
+      "/assets/productos/XIAOMI/XIAOMI9C/2.png"
+    ]
+  },
+  {
+    "modelo": "XIAOMI 9C 64 GB",
+    "precio": "113",
+    "marca": "xiaomi",
+    "imagenes": [
+      "/assets/productos/XIAOMI/XIAOMI9C/1.png",
+      "/assets/productos/XIAOMI/XIAOMI9C/2.png"
+    ]
   }
 ]

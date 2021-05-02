@@ -17,7 +17,8 @@ const BarraProductosItem = (props) => {
         />
         <p>
           <strong>{data[item_].modelo}</strong>
-          <br />${data[item_].precio}
+          <br />
+          {data[item_].precio !== "" && <>${data[item_].precio}</>}
         </p>
       </div>
     </Link>

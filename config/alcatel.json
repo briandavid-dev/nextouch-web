@@ -1,0 +1,20 @@
+[
+  {
+    "modelo": "A1",
+    "precio": "44",
+    "marca": "alcatel",
+    "imagenes": [
+      "/assets/productos/ALCATEL/A1/1.png",
+      "/assets/productos/ALCATEL/A1/2.png"
+    ]
+  },
+  {
+    "modelo": "A1S",
+    "precio": "75",
+    "marca": "alcatel",
+    "imagenes": [
+      "/assets/productos/ALCATEL/A1/1.png",
+      "/assets/productos/ALCATEL/A1/2.png"
+    ]
+  }
+]
