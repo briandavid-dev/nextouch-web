@@ -1,0 +1,20 @@
+[
+  {
+    "modelo": "XIAOMI 9A 32 GB",
+    "precio": "96",
+    "marca": "xiaomi",
+    "imagenes": [
+      "https://nextouchonline.com/assets/items/XIAOMI9A/1.png",
+      "https://nextouchonline.com/assets/items/XIAOMI9A/2.png"
+    ]
+  },
+  {
+    "modelo": "XIAOMI 11 9A 11 32 GB",
+    "precio": "120",
+    "marca": "xiaomi",
+    "imagenes": [
+      "https://nextouchonline.com/assets/items/XIAOMI119A/1.png",
+      "https://nextouchonline.com/assets/items/XIAOMI119A/2.png"
+    ]
+  }
+]

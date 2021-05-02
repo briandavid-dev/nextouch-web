@@ -35,7 +35,7 @@ export default function Home() {
   }, []);
 
   return (
-    <div>
+    <>
       <style jsx global>
         {stylesCss}
       </style>
@@ -65,9 +65,9 @@ export default function Home() {
         <title>Nextouchonline</title>
       </Head>
       <div style={{ padding: "1rem" }}>
-        <Row type="flex" justify="center" gutter={[40, 40]}>
+        <Row type="flex" justify="center">
           <Col xs={24} lg={20}>
-            <Row type="flex" justify="center" gutter={[40, 40]}>
+            <Row type="flex" justify="center">
               <Col span={4}>
                 <Link href="/">
                   <img src="/assets/logo.jpg" alt="" width={60} height={60} />
@@ -149,6 +149,13 @@ export default function Home() {
           </Col>
         </Row>
       </div>
-    </div>
+
+      <br />
+      <br />
+      <footer style={{ textAlign: "center" }}>
+        <p>2930 NW 72 AVE MIAMI FL 33122</p>
+        <p>WHATAPP +17863011385. RAIMUNDO SOL</p>
+      </footer>
+    </>
   );
 }

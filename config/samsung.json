@@ -1,0 +1,194 @@
+[
+  {
+    "modelo": "A01",
+    "precio": "90",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/A01/1.png",
+      "/assets/productos/SAMSUNG/A01/2.png",
+      "/assets/productos/SAMSUNG/A01/3.png",
+      "/assets/productos/SAMSUNG/A01/4.png",
+      "/assets/productos/SAMSUNG/A01/5.png"
+    ]
+  },
+  {
+    "modelo": "A10S",
+    "precio": "116",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/A10S/1.png",
+      "/assets/productos/SAMSUNG/A10S/2.png"
+    ]
+  },
+  {
+    "modelo": "A20S",
+    "precio": "135",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/A20S/1.png",
+      "/assets/productos/SAMSUNG/A20S/2.png"
+    ]
+  },
+  {
+    "modelo": "A31",
+    "precio": "200",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/A31/1.png",
+      "/assets/productos/SAMSUNG/A31/2.png"
+    ]
+  },
+  {
+    "modelo": "A51 128 GB",
+    "precio": "251",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/A51/1.png",
+      "/assets/productos/SAMSUNG/A51/2.png"
+    ]
+  },
+  {
+    "modelo": "A71 128 GB",
+    "precio": "326",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/A71/1.png",
+      "/assets/productos/SAMSUNG/A71/2.png"
+    ]
+  },
+  {
+    "modelo": "J260 8 GB",
+    "precio": "76",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/J260/1.png",
+      "/assets/productos/SAMSUNG/J260/2.png"
+    ]
+  },
+  {
+    "modelo": "A11 32 GB",
+    "precio": "126",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/A11/1.png",
+      "/assets/productos/SAMSUNG/A11/2.png"
+    ]
+  },
+  {
+    "modelo": "A21S 32 GB",
+    "precio": "174",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/A21S/1.png",
+      "/assets/productos/SAMSUNG/A21S/2.png"
+    ]
+  },
+  {
+    "modelo": "A70",
+    "precio": "292",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/A70/1.png",
+      "/assets/productos/SAMSUNG/A70/2.png"
+    ]
+  },
+  {
+    "modelo": "S10 128 GB",
+    "precio": "527",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/S10/1.png",
+      "/assets/productos/SAMSUNG/S10/2.png"
+    ]
+  },
+  {
+    "modelo": "S10 PLUS 128 GB",
+    "precio": "575",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/S10PLUS/1.png",
+      "/assets/productos/SAMSUNG/S10PLUS/2.png"
+    ]
+  },
+  {
+    "modelo": "S20 128 GB",
+    "precio": "675",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/S20/1.png",
+      "/assets/productos/SAMSUNG/S20/2.png"
+    ]
+  },
+  {
+    "modelo": "S20 PLUS 128 GB",
+    "precio": "683",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/S20PLUS/1.png",
+      "/assets/productos/SAMSUNG/S20PLUS/2.png"
+    ]
+  },
+  {
+    "modelo": "NOTE10 256 GB",
+    "precio": "600",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/NOTE10/1.png",
+      "/assets/productos/SAMSUNG/NOTE10/2.png"
+    ]
+  },
+  {
+    "modelo": "S20ULTRA 128 GB",
+    "precio": "985",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/S20ULTRA/1.png",
+      "/assets/productos/SAMSUNG/S20ULTRA/2.png"
+    ]
+  },
+  {
+    "modelo": "NOTE 10 LITE 128 GB",
+    "precio": "639",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/NOTE10LITE/1.png",
+      "/assets/productos/SAMSUNG/NOTE10LITE/2.png"
+    ]
+  },
+  {
+    "modelo": "FLIP 256 GB",
+    "precio": "1098",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/FLIP/1.png",
+      "/assets/productos/SAMSUNG/FLIP/2.png"
+    ]
+  },
+  {
+    "modelo": "TABLET T290",
+    "precio": "119",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/TABLETT290/1.png",
+      "/assets/productos/SAMSUNG/TABLETT290/2.png"
+    ]
+  },
+  {
+    "modelo": "TABLET T515",
+    "precio": "230",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/T515/1.png",
+      "/assets/productos/SAMSUNG/T515/2.png"
+    ]
+  },
+  {
+    "modelo": "TABLET T510N",
+    "precio": "188",
+    "marca": "Samsung",
+    "imagenes": [
+      "/assets/productos/SAMSUNG/T510N/1.png",
+      "/assets/productos/SAMSUNG/T510N/2.png"
+    ]
+  }
+]
