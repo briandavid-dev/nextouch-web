@@ -34,7 +34,7 @@ const Post = () => {
           rel="stylesheet"
         />
 
-        <title>Iphone | nextouchonline.com</title>
+        <title>Online</title>
       </Head>
       <div style={{ padding: "1rem" }}>
         <Row type="flex" justify="center">

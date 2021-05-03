@@ -4,7 +4,7 @@ import { Row, Col, Button, Image, Carousel } from "antd";
 import { WhatsAppOutlined } from "@ant-design/icons";
 import Head from "next/head";
 import css from "styled-jsx/css";
-import jsonIphone from "../config/iphone.json";
+import jsonXiaomi from "../config/xiaomi.json";
 import MenuBar from "../components/Header/MenuBar";
 import Footer from "../components/Footer";
 import { BarraProductosItem } from "../components/common/BarraProductos";
@@ -15,7 +15,7 @@ const Post = () => {
   const [dataProductos, setDataProductos] = useState([]);
 
   useEffect(() => {
-    setDataProductos(jsonIphone);
+    setDataProductos(jsonXiaomi);
   }, []);
 
   return (
@@ -34,7 +34,7 @@ const Post = () => {
           rel="stylesheet"
         />
 
-        <title>Iphone | nextouchonline.com</title>
+        <title>Xiaomi | nextouchonline.com</title>
       </Head>
       <div style={{ padding: "1rem" }}>
         <Row type="flex" justify="center">

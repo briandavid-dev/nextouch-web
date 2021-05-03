@@ -15,7 +15,7 @@ const MenuBar = () => {
   const { current } = state;
 
   const handleClick = (e) => {
-    console.log("click ", e);
+    // console.log("click ", e);
     setState({ current: e.key });
   };
 
@@ -24,10 +24,15 @@ const MenuBar = () => {
       <Menu.Item key="iphone">
         <Link href="/iphone">Iphone</Link>
       </Menu.Item>
-
-      <Menu.Item key="samsung">Samsung</Menu.Item>
-      <Menu.Item key="xiaomi">Xiaomi</Menu.Item>
-      <Menu.Item key="alcatel">Alcatel</Menu.Item>
+      <Menu.Item key="samsung">
+        <Link href="/samsung">Samsung</Link>
+      </Menu.Item>
+      <Menu.Item key="xiaomi">
+        <Link href="/xiaomi">Xiaomi</Link>
+      </Menu.Item>
+      <Menu.Item key="alcatel">
+        <Link href="/alcatel">Alcatel</Link>
+      </Menu.Item>
     </Menu>
   );
 };

@@ -36,7 +36,7 @@ export default function Home() {
           rel="stylesheet"
         />
 
-        <title>Phones, Tablets, Accesories | nextouchonline.com/</title>
+        <title>Phones, Tablets, Accesories | nextouchonline.com</title>
       </Head>
       <div style={{ padding: "1rem" }}>
         <Row type="flex" justify="center">
