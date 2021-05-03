@@ -1,11 +1,11 @@
 import React, { useState } from "react";
+import Link from "next/link";
 import { Menu } from "antd";
 import {
   MailOutlined,
   AppstoreOutlined,
   SettingOutlined,
 } from "@ant-design/icons";
-const { SubMenu } = Menu;
 
 const MenuBar = () => {
   const [state, setState] = useState({
@@ -21,7 +21,10 @@ const MenuBar = () => {
 
   return (
     <Menu onClick={handleClick} selectedKeys={[current]} mode="horizontal">
-      <Menu.Item key="iphone">Iphone</Menu.Item>
+      <Menu.Item key="iphone">
+        <Link href="/iphone">Iphone</Link>
+      </Menu.Item>
+
       <Menu.Item key="samsung">Samsung</Menu.Item>
       <Menu.Item key="xiaomi">Xiaomi</Menu.Item>
       <Menu.Item key="alcatel">Alcatel</Menu.Item>

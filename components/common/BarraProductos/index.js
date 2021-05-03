@@ -19,6 +19,8 @@ const BarraProductosItem = (props) => {
           style={{ display: "inline" }}
         />
         <p>
+          <small>{data[item_].marca}</small>
+          <br />
           <strong>{data[item_].modelo}</strong>
           <br />
           {data[item_].precio !== "" && <>${data[item_].precio}</>}
