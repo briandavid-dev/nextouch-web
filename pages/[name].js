@@ -89,10 +89,17 @@ const Post = () => {
       <div style={{ padding: "1rem" }}>
         <Row type="flex" justify="center">
           <Col xs={24} lg={20}>
-            <Row type="flex" justify="center" gutter={[40, 40]}>
+            <Row type="flex" justify="center">
               <Col span={4}>
                 <Link href="/">
-                  <img src="/assets/logo.jpg" alt="" width={60} height={60} />
+                  <img
+                    src="/assets/logo.jpg"
+                    alt="nextouchonline.com"
+                    width={60}
+                    // height={60}
+                    className="cursor-pointer"
+                    style={{ maxWidth: "100%" }}
+                  />
                 </Link>
               </Col>
               <Col span={20}>
@@ -116,8 +123,25 @@ const Post = () => {
                 <br />
                 <span style={{ fontSize: "20px" }}>{dataProducto.modelo}</span>
                 <br />
-                {dataProducto.precio && <>${dataProducto.precio}</>}
-                <br />
+                {dataProducto.precio && (
+                  <>
+                    <h4 style={{ color: "#23A34E" }}>${dataProducto.precio}</h4>
+                  </>
+                )}
+                {dataProducto.info && (
+                  <>
+                    <br />
+                    <div
+                      style={{
+                        backgroundColor: "#F5F5F7",
+                        padding: "1rem",
+                        borderRadius: "3px",
+                      }}
+                    >
+                      {dataProducto.info}
+                    </div>
+                  </>
+                )}
                 <br />
                 <a
                   href={`https://api.whatsapp.com/send?phone=17866160509&text=Hola, tengo una consulta para el ${dataProducto.modelo}`}

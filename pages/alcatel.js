@@ -39,10 +39,17 @@ const Post = () => {
       <div style={{ padding: "1rem" }}>
         <Row type="flex" justify="center">
           <Col xs={24} lg={20}>
-            <Row type="flex" justify="center" gutter={[40, 40]}>
+            <Row type="flex" justify="center">
               <Col span={4}>
                 <Link href="/">
-                  <img src="/assets/logo.jpg" alt="" width={60} height={60} />
+                  <img
+                    src="/assets/logo.jpg"
+                    alt="nextouchonline.com"
+                    width={60}
+                    // height={60}
+                    className="cursor-pointer"
+                    style={{ maxWidth: "100%" }}
+                  />
                 </Link>
               </Col>
               <Col span={20}>

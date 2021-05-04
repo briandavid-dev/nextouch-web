@@ -6,7 +6,8 @@
     "imagenes": [
       "/assets/productos/ALCATEL/A1/1.jpg",
       "/assets/productos/ALCATEL/A1/2.jpg"
-    ]
+    ],
+    "info": "Tiene una pantalla full HD de 5.5 pulgadas, procesador Snapdragon 625 de ocho núcleos, 4GB de RAM, 64GB de almacenamiento interno, una cámara dual de 12 MP con zoom óptico 2X, batería de 3080 mAh y corre Android 7.1.2 Nougat."
   },
   {
     "modelo": "A1S",
@@ -15,6 +16,7 @@
     "imagenes": [
       "/assets/productos/ALCATEL/A1/1.jpg",
       "/assets/productos/ALCATEL/A1/2.jpg"
-    ]
+    ],
+    "info": "Cuenta con una pantalla HD+ de 5.5 pulgadas, procesador octa-core con 3GB de RAM y 32GB de almacenamiento interno, cámara dual de 13 MP + 2 MP, cámara frontal de 5 MP con flash LED, lector de huellas posterior, batería de 3060 mAh y Android 9.0 Pie."
   }
 ]

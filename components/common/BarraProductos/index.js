@@ -23,6 +23,7 @@ export const BarraProductosItem = (props) => {
           <br />
           <strong>{data[item_].modelo}</strong>
           <br />
+
           {data[item_].precio !== "" && <>${data[item_].precio}</>}
         </p>
       </div>

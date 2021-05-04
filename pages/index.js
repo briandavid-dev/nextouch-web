@@ -46,10 +46,11 @@ export default function Home() {
                 <Link href="/">
                   <img
                     src="/assets/logo.jpg"
-                    alt=""
+                    alt="nextouchonline.com"
                     width={60}
-                    height={60}
+                    // height={60}
                     className="cursor-pointer"
+                    style={{ maxWidth: "100%" }}
                   />
                 </Link>
               </Col>
