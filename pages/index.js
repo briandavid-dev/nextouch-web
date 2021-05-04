@@ -61,20 +61,42 @@ export default function Home() {
             <br />
             <Row type="flex" justify="center" gutter={[40, 40]}>
               <Col span={24}>
-                <Carousel effect="fade">
-                  <div>
-                    <div style={{ textAlign: "center" }}>
-                      <img
-                        src="/assets/imgs/banners/banner.png"
-                        alt=""
-                        width={1920}
-                        // height="100%"
-                        style={{
-                          maxWidth: "100%",
-                          display: "inline",
-                        }}
-                      />
-                    </div>
+                <Carousel effect="fade" autoplay={true}>
+                  <div style={{ textAlign: "center" }}>
+                    <img
+                      src="/assets/imgs/banners/banner1.jpg"
+                      alt=""
+                      width={1920}
+                      // height="100%"
+                      style={{
+                        maxWidth: "100%",
+                        display: "inline",
+                      }}
+                    />
+                  </div>
+                  <div style={{ textAlign: "center" }}>
+                    <img
+                      src="/assets/imgs/banners/banner2.jpg"
+                      alt=""
+                      width={1920}
+                      // height="100%"
+                      style={{
+                        maxWidth: "100%",
+                        display: "inline",
+                      }}
+                    />
+                  </div>
+                  <div style={{ textAlign: "center" }}>
+                    <img
+                      src="/assets/imgs/banners/banner.png"
+                      alt=""
+                      width={1920}
+                      // height="100%"
+                      style={{
+                        maxWidth: "100%",
+                        display: "inline",
+                      }}
+                    />
                   </div>
                 </Carousel>
               </Col>
