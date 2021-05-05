@@ -7,7 +7,13 @@
       "https://nextouchonline.com/assets/items/XIAOMI9A/1.png",
       "https://nextouchonline.com/assets/items/XIAOMI9A/2.png"
     ],
-    "info": ""
+    "info": [
+      "Pantalla de 6.53 pulgadas.",
+      "Sistema operativo Android 10.",
+      "Cámara principal de 13 MP.",
+      "Cámara frontal de 5 MP.",
+      "Memoria expandible hastas 128 GB."
+    ]
   },
   {
     "modelo": "XIAOMI 11 9A 32 GB",
@@ -17,7 +23,10 @@
       "https://nextouchonline.com/assets/items/XIAOMI119A/1.png",
       "https://nextouchonline.com/assets/items/XIAOMI119A/2.png"
     ],
-    "info": ""
+    "info": [
+      "-----------------------------------------------",
+      "-----------------------------------------------"
+    ]
   },
   {
     "modelo": "XIAOMI 7A 32 GB",
@@ -27,7 +36,10 @@
       "/assets/productos/XIAOMI/XIAOMI7A/1.jpg",
       "/assets/productos/XIAOMI/XIAOMI7A/2.jpg"
     ],
-    "info": ""
+    "info": [
+      "-----------------------------------------------",
+      "-----------------------------------------------"
+    ]
   },
   {
     "modelo": "XIAOMI 8A 32 GB",
@@ -37,7 +49,10 @@
       "/assets/productos/XIAOMI/XIAOMI8A/1.jpg",
       "/assets/productos/XIAOMI/XIAOMI8A/2.jpg"
     ],
-    "info": ""
+    "info": [
+      "-----------------------------------------------",
+      "-----------------------------------------------"
+    ]
   },
   {
     "modelo": "MI8",
@@ -47,7 +62,10 @@
       "/assets/productos/XIAOMI/MI8/1.jpg",
       "/assets/productos/XIAOMI/MI8/2.jpg"
     ],
-    "info": ""
+    "info": [
+      "-----------------------------------------------",
+      "-----------------------------------------------"
+    ]
   },
   {
     "modelo": "NOTE 8 64 GB",
@@ -57,7 +75,10 @@
       "/assets/productos/XIAOMI/NOTE8/1.jpg",
       "/assets/productos/XIAOMI/NOTE8/2.jpg"
     ],
-    "info": ""
+    "info": [
+      "-----------------------------------------------",
+      "-----------------------------------------------"
+    ]
   },
   {
     "modelo": "NOTE 8 128 GB",
@@ -67,7 +88,10 @@
       "/assets/productos/XIAOMI/NOTE8/1.jpg",
       "/assets/productos/XIAOMI/NOTE8/2.jpg"
     ],
-    "info": ""
+    "info": [
+      "-----------------------------------------------",
+      "-----------------------------------------------"
+    ]
   },
   {
     "modelo": "NOTE 8 PRO 64 GB",
@@ -77,7 +101,10 @@
       "/assets/productos/XIAOMI/NOTE8PRO/1.jpg",
       "/assets/productos/XIAOMI/NOTE8PRO/2.jpg"
     ],
-    "info": ""
+    "info": [
+      "-----------------------------------------------",
+      "-----------------------------------------------"
+    ]
   },
   {
     "modelo": "NOTE 8 PRO 128 GB",
@@ -87,7 +114,10 @@
       "/assets/productos/XIAOMI/NOTE8PRO/1.jpg",
       "/assets/productos/XIAOMI/NOTE8PRO/2.jpg"
     ],
-    "info": ""
+    "info": [
+      "-----------------------------------------------",
+      "-----------------------------------------------"
+    ]
   },
   {
     "modelo": "NOTE 9 S 64 GB",
@@ -97,7 +127,10 @@
       "/assets/productos/XIAOMI/NOTE9S/1.jpg",
       "/assets/productos/XIAOMI/NOTE9S/2.jpg"
     ],
-    "info": ""
+    "info": [
+      "-----------------------------------------------",
+      "-----------------------------------------------"
+    ]
   },
   {
     "modelo": "NOTE 9 S 128 GB",
@@ -107,7 +140,10 @@
       "/assets/productos/XIAOMI/NOTE9S/1.jpg",
       "/assets/productos/XIAOMI/NOTE9S/2.jpg"
     ],
-    "info": ""
+    "info": [
+      "-----------------------------------------------",
+      "-----------------------------------------------"
+    ]
   },
   {
     "modelo": "REDMI 9 64 GB",
@@ -117,7 +153,10 @@
       "/assets/productos/XIAOMI/REDMI9/1.jpg",
       "/assets/productos/XIAOMI/REDMI9/2.jpg"
     ],
-    "info": ""
+    "info": [
+      "-----------------------------------------------",
+      "-----------------------------------------------"
+    ]
   },
   {
     "modelo": "NOTE 9 64 GB",
@@ -127,7 +166,10 @@
       "/assets/productos/XIAOMI/NOTE9/1.jpg",
       "/assets/productos/XIAOMI/NOTE9/2.jpg"
     ],
-    "info": ""
+    "info": [
+      "-----------------------------------------------",
+      "-----------------------------------------------"
+    ]
   },
   {
     "modelo": "NOTE 9 128 GB",
@@ -137,7 +179,10 @@
       "/assets/productos/XIAOMI/NOTE9/1.jpg",
       "/assets/productos/XIAOMI/NOTE9/2.jpg"
     ],
-    "info": ""
+    "info": [
+      "-----------------------------------------------",
+      "-----------------------------------------------"
+    ]
   },
   {
     "modelo": "NOTE 9 PRO 64 GB",
@@ -147,7 +192,10 @@
       "/assets/productos/XIAOMI/NOTE9PRO/1.jpg",
       "/assets/productos/XIAOMI/NOTE9PRO/2.jpg"
     ],
-    "info": ""
+    "info": [
+      "-----------------------------------------------",
+      "-----------------------------------------------"
+    ]
   },
   {
     "modelo": "NOTE 9 PRO 128 GB",
@@ -157,7 +205,10 @@
       "/assets/productos/XIAOMI/NOTE9PRO/1.jpg",
       "/assets/productos/XIAOMI/NOTE9PRO/2.jpg"
     ],
-    "info": ""
+    "info": [
+      "-----------------------------------------------",
+      "-----------------------------------------------"
+    ]
   },
   {
     "modelo": "XIAOMI 9C 32 GB",
@@ -167,7 +218,10 @@
       "/assets/productos/XIAOMI/XIAOMI9C/1.jpg",
       "/assets/productos/XIAOMI/XIAOMI9C/2.jpg"
     ],
-    "info": ""
+    "info": [
+      "-----------------------------------------------",
+      "-----------------------------------------------"
+    ]
   },
   {
     "modelo": "XIAOMI 9C 64 GB",
@@ -177,6 +231,9 @@
       "/assets/productos/XIAOMI/XIAOMI9C/1.jpg",
       "/assets/productos/XIAOMI/XIAOMI9C/2.jpg"
     ],
-    "info": ""
+    "info": [
+      "-----------------------------------------------",
+      "-----------------------------------------------"
+    ]
   }
 ]
