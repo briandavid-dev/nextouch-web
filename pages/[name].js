@@ -5,7 +5,7 @@ import { Row, Col, Button, Image, Carousel } from "antd";
 import { WhatsAppOutlined } from "@ant-design/icons";
 import Head from "next/head";
 import css from "styled-jsx/css";
-import { celulares } from "../config/celulares.json";
+import jsonIphone from "../config/iphone.json";
 import jsonXiaomi from "../config/xiaomi.json";
 import jsonSamsung from "../config/samsung.json";
 import jsonAlcatel from "../config/alcatel.json";
@@ -17,7 +17,7 @@ import ProductosAlcatel from "../components/Home/ProductosAlcatel";
 import Footer from "../components/Footer";
 
 const celularesMerge = [
-  ...celulares,
+  ...jsonIphone,
   ...jsonXiaomi,
   ...jsonSamsung,
   ...jsonAlcatel,
@@ -42,6 +42,7 @@ const Post = () => {
     precio: "",
     marca: "",
     imagenes: [1, 2],
+    info: [],
   });
 
   useEffect(() => {
@@ -128,20 +129,20 @@ const Post = () => {
                     <h4 style={{ color: "#23A34E" }}>${dataProducto.precio}</h4>
                   </>
                 )}
-                {dataProducto.info && (
-                  <>
-                    <br />
-                    <div
-                      style={{
-                        backgroundColor: "#F5F5F7",
-                        padding: "1rem",
-                        borderRadius: "3px",
-                      }}
-                    >
-                      {dataProducto.info}
-                    </div>
-                  </>
-                )}
+                <div
+                  style={{
+                    backgroundColor: "#F5F5F7",
+                    padding: "1rem",
+                    borderRadius: "3px",
+                  }}
+                >
+                  {dataProducto.info.map((info) => (
+                    <>
+                      {info}
+                      <br />
+                    </>
+                  ))}
+                </div>
                 <br />
                 <a
                   href={`https://api.whatsapp.com/send?phone=17866160509&text=Hola, tengo una consulta para el ${dataProducto.modelo}`}
