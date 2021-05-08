@@ -124,10 +124,10 @@ const Post = () => {
                 <br />
                 <span style={{ fontSize: "20px" }}>{dataProducto.modelo}</span>
                 <br />
-                {dataProducto.precio && (
-                  <>
-                    <h4 style={{ color: "#23A34E" }}>${dataProducto.precio}</h4>
-                  </>
+                {dataProducto.precio ? (
+                  <h4 style={{ color: "#23A34E" }}>${dataProducto.precio}</h4>
+                ) : (
+                  <br />
                 )}
                 <div
                   style={{
