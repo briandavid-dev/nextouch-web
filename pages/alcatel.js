@@ -59,11 +59,12 @@ const Post = () => {
             <br />
           </Col>
         </Row>
-        <br />
-        <br />
         <Row type="flex" justify="center">
           <Col xs={24} lg={20}>
             <Row gutter={[40, 40]}>
+              <Col span={24}>
+                <h1>Alcatel </h1>
+              </Col>
               {dataProductos.map((producto, key) => (
                 <Col
                   key={key}

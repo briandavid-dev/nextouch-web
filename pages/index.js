@@ -4,6 +4,7 @@ import Link from "next/link";
 import css from "styled-jsx/css";
 import MenuBar from "../components/Header/MenuBar";
 import ProductosIphone from "../components/Home/ProductosIphone";
+import ProductosIphoneAlMayor from "../components/Home/ProductosIphoneAlMayor";
 import ProductosSamsung from "../components/Home/ProductosSamsung";
 import ProductosXiaomi from "../components/Home/ProductosXiaomi";
 import ProductosAlcatel from "../components/Home/ProductosAlcatel";
@@ -157,6 +158,7 @@ export default function Home() {
             </Row>
 
             <ProductosIphone />
+            <ProductosIphoneAlMayor />
             <ProductosSamsung />
             <ProductosXiaomi />
             <ProductosAlcatel />

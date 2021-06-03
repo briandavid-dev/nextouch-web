@@ -24,14 +24,21 @@ const MenuBar = () => {
       <Menu.Item key="iphone">
         <Link href="/iphone">Iphone</Link>
       </Menu.Item>
+
       <Menu.Item key="samsung">
         <Link href="/samsung">Samsung</Link>
       </Menu.Item>
+
       <Menu.Item key="xiaomi">
         <Link href="/xiaomi">Xiaomi</Link>
       </Menu.Item>
+
       <Menu.Item key="alcatel">
         <Link href="/alcatel">Alcatel</Link>
+      </Menu.Item>
+
+      <Menu.Item key="iphone-al-mayor">
+        <Link href="/iphone-al-mayor">Iphone al Mayor</Link>
       </Menu.Item>
     </Menu>
   );
