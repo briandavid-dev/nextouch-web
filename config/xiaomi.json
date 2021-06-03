@@ -4,8 +4,8 @@
     "precio": "96",
     "marca": "Xiaomi",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/XIAOMI9A/1.png",
-      "https://nextouchonline.com/assets/items/XIAOMI9A/2.png"
+      "/assets/productos/XIAOMI9A/1.png",
+      "/assets/productos/XIAOMI9A/2.png"
     ],
     "info": [
       "Pantalla de 6.53 pulgadas.",
@@ -20,8 +20,8 @@
     "precio": "120",
     "marca": "Xiaomi",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/XIAOMI119A/1.png",
-      "https://nextouchonline.com/assets/items/XIAOMI119A/2.png"
+      "/assets/productos/XIAOMI119A/1.png",
+      "/assets/productos/XIAOMI119A/2.png"
     ],
     "info": [
       "Pantalla de 6.53 pulgadas.",
