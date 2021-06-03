@@ -1,13 +1,13 @@
 import { useEffect, useState } from "react";
 import { Row, Col, Divider, Carousel } from "antd";
 import BarraProductos from "../common/BarraProductos";
-import { celulares } from "../../config/celulares.json";
+import jsonIphone from "../../config/iphone.json";
 
 const ProductosIphone = () => {
   const [dataApple, setDataApple] = useState([]);
 
   useEffect(() => {
-    setDataApple(celulares.filter((celu) => celu.marca === "Iphone"));
+    setDataApple(jsonIphone);
   }, []);
 
   return (
@@ -20,11 +20,7 @@ const ProductosIphone = () => {
         <Col xs={0} lg={24}>
           {dataApple.length > 0 && (
             <Carousel effect="fade">
-              <BarraProductos data={dataApple} items={[82, 80, 67, 71, 74]} />
-              <BarraProductos data={dataApple} items={[61, 62, 63, 64, 65]} />
-              <BarraProductos data={dataApple} items={[56, 57, 58, 59, 60]} />
-              <BarraProductos data={dataApple} items={[51, 52, 53, 54, 55]} />
-              <BarraProductos data={dataApple} items={[46, 47, 48, 49, 50]} />
+              <BarraProductos data={dataApple} items={[46, 40, 25, 31, 37]} />
 
               <BarraProductos data={dataApple} items={[41, 42, 43, 44, 45]} />
               <BarraProductos data={dataApple} items={[36, 37, 38, 39, 40]} />
@@ -46,11 +42,11 @@ const ProductosIphone = () => {
         <Col xs={24} lg={0}>
           {dataApple.length > 0 && (
             <Carousel effect="fade">
-              <BarraProductos data={dataApple} items={[82, 80]} />
-              <BarraProductos data={dataApple} items={[67, 71]} />
-              <BarraProductos data={dataApple} items={[74, 61]} />
-              <BarraProductos data={dataApple} items={[62, 63]} />
-              <BarraProductos data={dataApple} items={[64, 65]} />
+              <BarraProductos data={dataApple} items={[40, 39]} />
+              <BarraProductos data={dataApple} items={[28, 37]} />
+              <BarraProductos data={dataApple} items={[35, 34]} />
+              <BarraProductos data={dataApple} items={[25, 20]} />
+              <BarraProductos data={dataApple} items={[19, 31]} />
 
               <BarraProductos data={dataApple} items={[13, 14]} />
               <BarraProductos data={dataApple} items={[11, 12]} />

@@ -4,8 +4,8 @@
     "precio": "85",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6-32GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6-32GB/2.png"
+      "/assets/productos/IPHONE6-32GB/1.png",
+      "/assets/productos/IPHONE6-32GB/2.png"
     ],
     "info": [
       "Pantalla: LCD IPS 4.7 táctil (1334x750) / 60 Hz.",
@@ -22,8 +22,8 @@
     "precio": "93",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6-64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6-64GB/2.png"
+      "/assets/productos/IPHONE6-64GB/1.png",
+      "/assets/productos/IPHONE6-64GB/2.png"
     ],
     "info": [
       "Pantalla: 4,7 pulgadas sRGB Retina HD 1334 x 750.",
@@ -38,8 +38,8 @@
     "precio": "100",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6-128GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6-128GB/2.png"
+      "/assets/productos/IPHONE6-128GB/1.png",
+      "/assets/productos/IPHONE6-128GB/2.png"
     ],
     "info": [
       "Pantalla: 10.1, 1200 x 1920 pixels.",
@@ -54,8 +54,8 @@
     "precio": "123",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6PLUS-16GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6PLUS-16GB/2.png"
+      "/assets/productos/IPHONE6PLUS-16GB/1.png",
+      "/assets/productos/IPHONE6PLUS-16GB/2.png"
     ],
     "info": [
       "IOS con procesador mediano de 1.4Ghz Dual-Core.",
@@ -69,8 +69,8 @@
     "precio": "135",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6PLUS-32GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6PLUS-32GB/2.png"
+      "/assets/productos/IPHONE6PLUS-32GB/1.png",
+      "/assets/productos/IPHONE6PLUS-32GB/2.png"
     ],
     "info": [
       "Procesador mediano de 1.84Ghz Dual-Core.",
@@ -85,8 +85,8 @@
     "precio": "145",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6PLUS-64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6PLUS-64GB/2.png"
+      "/assets/productos/IPHONE6PLUS-64GB/1.png",
+      "/assets/productos/IPHONE6PLUS-64GB/2.png"
     ],
     "info": [
       "Procesador mediano de 1.84Ghz Dual-Core.",
@@ -101,8 +101,8 @@
     "precio": "155",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6PLUS-128GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6PLUS-128GB/2.png"
+      "/assets/productos/IPHONE6PLUS-128GB/1.png",
+      "/assets/productos/IPHONE6PLUS-128GB/2.png"
     ],
     "info": [
       "Procesador mediano de 1.84Ghz Dual-Core.",
@@ -117,8 +117,8 @@
     "precio": "125",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6S-32GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6S-32GB/2.png"
+      "/assets/productos/IPHONE6S-32GB/1.png",
+      "/assets/productos/IPHONE6S-32GB/2.png"
     ],
     "info": [
       "Pantalla de 4.7 pulgadas con resolución Retina.",
@@ -133,8 +133,8 @@
     "precio": "133",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6S-32GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6S-32GB/2.png"
+      "/assets/productos/IPHONE6S-32GB/1.png",
+      "/assets/productos/IPHONE6S-32GB/2.png"
     ],
     "info": [
       "Procesador mediano de 1.84Ghz Dual-Core.",
@@ -149,8 +149,8 @@
     "precio": "149",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6S-32GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6S-32GB/2.png"
+      "/assets/productos/IPHONE6S-32GB/1.png",
+      "/assets/productos/IPHONE6S-32GB/2.png"
     ],
     "info": [
       "Pantalla: 4,7 pulgadas IPS 1.334 x 750 píxeles 3D Touch Display.",
@@ -164,8 +164,8 @@
     "precio": "165",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6SPLUS-16GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6SPLUS-16GB/2.png"
+      "/assets/productos/IPHONE6SPLUS-16GB/1.png",
+      "/assets/productos/IPHONE6SPLUS-16GB/2.png"
     ],
     "info": [
       "Procesador mediano de 1.84Ghz Dual-Core.",
@@ -180,8 +180,8 @@
     "precio": "185",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6SPLUS-16GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6SPLUS-16GB/2.png"
+      "/assets/productos/IPHONE6SPLUS-16GB/1.png",
+      "/assets/productos/IPHONE6SPLUS-16GB/2.png"
     ],
     "info": [
       "Pantalla Retina HD con 3D Touch.",
@@ -196,8 +196,8 @@
     "precio": "198",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6SPLUS-16GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6SPLUS-16GB/2.png"
+      "/assets/productos/IPHONE6SPLUS-16GB/1.png",
+      "/assets/productos/IPHONE6SPLUS-16GB/2.png"
     ],
     "info": [
       "Pantalla: 5,5 pulgadas.",
@@ -211,8 +211,8 @@
     "precio": "208",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6SPLUS-16GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6SPLUS-16GB/2.png"
+      "/assets/productos/IPHONE6SPLUS-16GB/1.png",
+      "/assets/productos/IPHONE6SPLUS-16GB/2.png"
     ],
     "info": [
       "Procesador mediano de 1.84Ghz Dual-Core.",
@@ -227,8 +227,8 @@
     "precio": "165",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE732GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE732GB/2.png"
+      "/assets/productos/IPHONE7/1.jpg",
+      "/assets/productos/IPHONE7/2.jpg"
     ],
     "info": [
       "Procesador de 2.34Ghz Quad-Core.",
@@ -243,8 +243,8 @@
     "precio": "185",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE732GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE732GB/2.png"
+      "/assets/productos/IPHONE7/1.jpg",
+      "/assets/productos/IPHONE7/2.jpg"
     ],
     "info": [
       "Procesador de 2.34Ghz Quad-Core.",
@@ -259,8 +259,8 @@
     "precio": "350",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE7PLUS32GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE7PLUS32GB/2.png"
+      "/assets/productos/IPHONE7PLUS32GB/1.png",
+      "/assets/productos/IPHONE7PLUS32GB/2.png"
     ],
     "info": [
       "Procesador de 2.34Ghz Quad-Core.",
@@ -275,8 +275,8 @@
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE7PLUS32GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE7PLUS32GB/2.png"
+      "/assets/productos/IPHONE7PLUS32GB/1.png",
+      "/assets/productos/IPHONE7PLUS32GB/2.png"
     ],
     "info": [
       "Pantalla: 5.5, 1080 x 1920 pixels.",
@@ -289,8 +289,8 @@
     "precio": "248",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE864GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE864GB/2.png"
+      "/assets/productos/IPHONE8/1.jpg",
+      "/assets/productos/IPHONE8/2.jpg"
     ],
     "info": [
       "Pantalla: 4.7, 1334 x 750 pixels .",
@@ -304,8 +304,8 @@
     "precio": "275",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE864GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE864GB/2.png"
+      "/assets/productos/IPHONE8/1.jpg",
+      "/assets/productos/IPHONE8/2.jpg"
     ],
     "info": [
       "Pantalla: 4.7, 1334 x 750 pixels..",
@@ -319,8 +319,8 @@
     "precio": "295",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE864GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE864GB/2.png"
+      "/assets/productos/IPHONE8/1.jpg",
+      "/assets/productos/IPHONE8/2.jpg"
     ],
     "info": [
       "Pantalla Retina HD. Con tecnología IPS 1334 x 750 pixeles, 4.7 pulgadas.",
@@ -336,8 +336,8 @@
     "precio": "355",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE8PLUS64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE8PLUS64GB/2.png"
+      "/assets/productos/IPHONE8PLUS64GB/1.png",
+      "/assets/productos/IPHONE8PLUS64GB/2.png"
     ],
     "info": [
       "Pantalla: 5.5, 1080 x 1920 pixels.",
@@ -351,8 +351,8 @@
     "precio": "395",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE8PLUS64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE8PLUS64GB/2.png"
+      "/assets/productos/IPHONE8PLUS64GB/1.png",
+      "/assets/productos/IPHONE8PLUS64GB/2.png"
     ],
     "info": [
       "Pantalla Retina HD.",
@@ -370,8 +370,8 @@
     "precio": "410",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE8PLUS64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE8PLUS64GB/2.png"
+      "/assets/productos/IPHONE8PLUS64GB/1.png",
+      "/assets/productos/IPHONE8PLUS64GB/2.png"
     ],
     "info": [
       "Pantalla: 5.5, 1080 x 1920 pixels.",
@@ -385,8 +385,8 @@
     "precio": "410",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEX64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEX64GB/2.png"
+      "/assets/productos/IPHONEX64GB/1.png",
+      "/assets/productos/IPHONEX64GB/2.png"
     ],
     "info": [
       "Pantalla: 5.8, 1125 x 2436 pixels.",
@@ -400,8 +400,8 @@
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEX64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEX64GB/2.png"
+      "/assets/productos/IPHONEX64GB/1.png",
+      "/assets/productos/IPHONEX64GB/2.png"
     ],
     "info": [
       "Pantalla grande (5.8).",
@@ -418,8 +418,8 @@
     "precio": "465",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEX64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEX64GB/2.png"
+      "/assets/productos/IPHONEX64GB/1.png",
+      "/assets/productos/IPHONEX64GB/2.png"
     ],
     "info": [
       "Pantalla: 5.8, 1125 x 2436 pixels.",
@@ -433,8 +433,8 @@
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEXR64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEXR64GB/2.png"
+      "/assets/productos/IPHONEXR64GB/1.png",
+      "/assets/productos/IPHONEXR64GB/2.png"
     ],
     "info": [
       "Pantalla: 6.1, 828 x 1792 pixels.",
@@ -448,8 +448,8 @@
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEXR64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEXR64GB/2.png"
+      "/assets/productos/IPHONEXR64GB/1.png",
+      "/assets/productos/IPHONEXR64GB/2.png"
     ],
     "info": [
       "Pantalla Liquid Retina HD.",
@@ -463,12 +463,12 @@
     ]
   },
   {
-    "modelo": "IPHONE XMAX 64 GB",
+    "modelo": "IPHONE X MAX 64 GB",
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEXMAX64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEXMAX64GB/2.png"
+      "/assets/productos/IPHONEXMAX64GB/1.png",
+      "/assets/productos/IPHONEXMAX64GB/2.png"
     ],
     "info": [
       "Pantalla Liquid Retina HD.",
@@ -481,12 +481,12 @@
     ]
   },
   {
-    "modelo": "IPHONE XMAX 128 GB",
+    "modelo": "IPHONE X MAX 128 GB",
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEXMAX64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEXMAX64GB/2.png"
+      "/assets/productos/IPHONEXMAX64GB/1.png",
+      "/assets/productos/IPHONEXMAX64GB/2.png"
     ],
     "info": [
       "Pantalla Super Retina HD.",
@@ -500,12 +500,12 @@
     ]
   },
   {
-    "modelo": "IPHONE XMAX 256 GB",
+    "modelo": "IPHONE X MAX 256 GB",
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEXMAX64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEXMAX64GB/2.png"
+      "/assets/productos/IPHONEXMAX64GB/1.png",
+      "/assets/productos/IPHONEXMAX64GB/2.png"
     ],
     "info": [
       "Pantalla: 6.5, 1242 x 2688 pixels.",
@@ -519,8 +519,8 @@
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE11/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE11/2.png"
+      "/assets/productos/IPHONE11/1.png",
+      "/assets/productos/IPHONE11/2.png"
     ],
     "info": [
       "Pantalla: 6.1, 1242 x 1792 pixels.",
@@ -534,8 +534,8 @@
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE11/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE11/2.png"
+      "/assets/productos/IPHONE11/1.png",
+      "/assets/productos/IPHONE11/2.png"
     ],
     "info": [
       "Pantalla: 6.1, 828 x 1792 pixels.",
@@ -549,8 +549,8 @@
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE11/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE11/2.png"
+      "/assets/productos/IPHONE11/1.png",
+      "/assets/productos/IPHONE11/2.png"
     ],
     "info": [
       "Pantalla: 6.1, 1242 x 1792 pixels.",
@@ -564,8 +564,8 @@
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE11PRO/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE11PRO/2.png"
+      "/assets/productos/IPHONE11PRO/1.png",
+      "/assets/productos/IPHONE11PRO/2.png"
     ],
     "info": [
       "Super Retina XDR.",
@@ -583,8 +583,8 @@
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE11PRO/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE11PRO/2.png"
+      "/assets/productos/IPHONE11PRO/1.png",
+      "/assets/productos/IPHONE11PRO/2.png"
     ],
     "info": [
       "Procesador de 2.65Ghz Hexa-Core que permite ejecutar juegos y aplicaciones pesadas.",
@@ -600,8 +600,8 @@
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE11PROMAX/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE11PROMAX/2.png"
+      "/assets/productos/IPHONE11PROMAX/1.png",
+      "/assets/productos/IPHONE11PROMAX/2.png"
     ],
     "info": [
       "Pantalla: 6.5, 1242 x 2688 pixels.",
@@ -615,8 +615,8 @@
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE11PROMAX/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE11PROMAX/2.png"
+      "/assets/productos/IPHONE11PROMAX/1.png",
+      "/assets/productos/IPHONE11PROMAX/2.png"
     ],
     "info": [
       "Pantalla: 6.5, 1242 x 2688 pixels.",
@@ -626,29 +626,12 @@
     ]
   },
   {
-    "modelo": "IPHONE 6 32 GB",
-    "precio": "85",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6-32GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6-32GB/2.png"
-    ],
-    "info": [
-      "Dimensiones: 6.9 milímetros de grosor.",
-      "Pantalla: 4,7 pulgadas sRGB Retina HD 1334 x 750.",
-      "Procesador: Apple A8 (64 bit, 20 nanómetros).",
-      "Coprocesador: Apple M8.",
-      "Cámara: iSight 8 megapíxeles, True Tone Flash, 1,5u píxeles, f/2.2.",
-      "Conectividad: 4G LTE Cat."
-    ]
-  },
-  {
     "modelo": "IPHONE 6 64 GB",
     "precio": "93",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6-32GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6-32GB/2.png"
+      "/assets/productos/IPHONE6-64GB/1.png",
+      "/assets/productos/IPHONE6-64GB/2.png"
     ],
     "info": [
       "Procesador mediano de 1.4Ghz Dual-Core.",
@@ -659,572 +642,16 @@
     ]
   },
   {
-    "modelo": "IPHONE 6 32 GB",
-    "precio": "100",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6-32GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6-32GB/2.png"
-    ],
-    "info": [
-      "Pantalla 4.7 pulgadas.",
-      "Procesador: Apple iOS",
-      "Tiempo de conversación (3G): Up to 14 hours.",
-      "Cámara: 8 megapíxeles.",
-      "Standby: Up to 10 days.",
-      "67mm de ancho y 138.1mm de altura."
-    ]
-  },
-  {
-    "modelo": "IPHONE 6 PLUS 16 GB",
-    "precio": "123",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6PLUS-16GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6PLUS-16GB/2.png"
-    ],
-    "info": [
-      "Procesador mediano de 1.4Ghz Dual-Core.",
-      "Tarjeta SIM, 150 Mbps para la navegación por Internet.",
-      "Bluetooth 4.0 + A2DP, WiFi 802.11 a/b/g/n/ac (2.4Ghz, 5Ghz) y NFC.",
-      "Batería, tiene 172 gramos y es un terminal muy delgado con solamente 7,1mm."
-    ]
-  },
-  {
-    "modelo": "IPHONE 6 PLUS 32 GB",
-    "precio": "135",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6PLUS-16GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6PLUS-16GB/2.png"
-    ],
-    "info": [
-      "Procesador mediano de 1.84Ghz Dual-Core.",
-      "Tarjeta SIM, 300 Mbps para la navegación por Internet.",
-      "Bluetooth 4.2 + A2DP, WiFi 802.11 a/b/g/n/ac (2.4Ghz, 5Ghz) + MIMO y NFC",
-      "Batería, tiene 192 gramos y es un terminal muy delgado con solamente 7,3mm."
-    ]
-  },
-  {
-    "modelo": "IPHONE 6 PLUS 64 GB",
-    "precio": "145",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6PLUS-16GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6PLUS-16GB/2.png"
-    ],
-    "info": [
-      "CPU Procesador / Núcleos 1.84Ghz Dual-Core Twister.",
-      "GPU tarjeta gráfica PowerVR GT7600 MP6.",
-      "Memoria RAM 2GB LPDDR4.Conectividad: 4G LTE Cat."
-    ]
-  },
-  {
-    "modelo": "IPHONE 6 PLUS 128 GB",
-    "precio": "155",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6PLUS-16GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6PLUS-16GB/2.png"
-    ],
-    "info": [
-      "CPU Procesador / Núcleos 1.4Ghz Dual-Core Typhoon ARM v8.",
-      "GPU tarjeta gráfica PowerVR GX6450 MP4.",
-      "Memoria RAM 1GB LPDDR3."
-    ]
-  },
-  {
-    "modelo": "IPHONE 6S 32 GB",
-    "precio": "125",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6S-32GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6S-32GB/2.png"
-    ],
-    "info": [
-      "Pantalla de 4.7 pulgadas.",
-      "Resolución Retina.",
-      "Procesador: Apple A9.",
-      "Cámara iSight de 12 megapixels.",
-      "Cámara frontal de 5 megapixels con un flash Retina.",
-      "Tecnología 3D Touch, que permite reconocer la presión ejercida sobre la pantalla."
-    ]
-  },
-  {
-    "modelo": "IPHONE 6S 64 GB",
-    "precio": "133",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6S-32GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6S-32GB/2.png"
-    ],
-    "info": [
-      "Procesador mediano de 1.84Ghz Dual-Core.",
-      "Tarjeta SIM.",
-      "300 Mbps para la navegación por Internet.",
-      "Bluetooth 4.2 + A2DP, WiFi 802.11 a/b/g/n/ac (2.4Ghz, 5Ghz) + MIMO y NFC.",
-      "Batería, tiene 143 gramos y es un terminal muy delgado con solamente 7,1mm."
-    ]
-  },
-  {
-    "modelo": "IPHONE 6S 128 GB",
-    "precio": "149",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6S-32GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6S-32GB/2.png"
-    ],
-    "info": [
-      "Pantalla: 4,7 pulgadas IPS 1.334 x 750 píxeles 3D Touch Display.",
-      "Procesador: Apple A9 64 bit arquitectura Transistor (dualcore @ 2 GHz).",
-      "Batería: 1.810 mAh.",
-      "Cámara: 12 MP flash doble tono / 5 MP Retina Flash."
-    ]
-  },
-  {
-    "modelo": "IPHONE 6S PLUS 16 GB",
-    "precio": "159",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6SPLUS-16GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6SPLUS-16GB/2.png"
-    ],
-    "info": [
-      "CPU Procesador / Núcleos 1.84Ghz Dual-Core Twister.",
-      "GPU tarjeta gráfica PowerVR GT7600 MP6.",
-      "Memoria RAM 2GB LPDDR4."
-    ]
-  },
-  {
-    "modelo": "IPHONE 6S PLUS 32 GB",
-    "precio": "185",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6SPLUS-16GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6SPLUS-16GB/2.png"
-    ],
-    "info": [
-      "Pantalla Retina HD con 3D Touch.",
-      "Pantalla Multi-Touch panorámica LCD de 5,5 pulgadas (en diagonal) con tecnología IPS.",
-      "Resolución de 1.920 por 1.080 a 401 p/p.",
-      "Contraste de 1.300:1 (típico).",
-      "Brillo máximo de 500 cd/m2 (típico).",
-      "Compatibilidad total con sRGB.",
-      "Píxeles de doble dominio para un gran ángulo de visión."
-    ]
-  },
-  {
-    "modelo": "IPHONE 6S PLUS 64 GB",
-    "precio": "198",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6SPLUS-16GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6SPLUS-16GB/2.png"
-    ],
-    "info": [
-      "Pantalla: 5,5 pulgadas, con la tecnología 3D Touch.",
-      "SoC: Apple A9 de arquitectura de 64 bits con coprocesador de movimiento M9 está integrado directamente con el chip A9.",
-      "Tamaño y peso: Su altura es de 158,1 mm, con un ancho de 77,8 mm, grosor de 7,3 mm y peso de 192 g."
-    ]
-  },
-  {
-    "modelo": "IPHONE 6S PLUS 128 GB",
-    "precio": "208",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE6SPLUS-16GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE6SPLUS-16GB/2.png"
-    ],
-    "info": [
-      "Procesador mediano de 1.84Ghz Dual-Core. ",
-      "Tarjeta SIM.",
-      "300 Mbps para la navegación por Internet.",
-      "Bluetooth 4.2 + A2DP, WiFi 802.11 a/b/g/n/ac (2.4Ghz, 5Ghz) + MIMO y NFC.",
-      "Batería,  192 gramos y es un terminal muy delgado con solamente 7,3mm. "
-    ]
-  },
-  {
-    "modelo": "IPHONE 7 32 GB",
-    "precio": "159",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE732GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE732GB/2.png"
-    ],
-    "info": [
-      "IOS con procesador de 2.34Ghz Quad-Core.",
-      "Tarjeta SIM.",
-      "450 Mbps para la navegación por Internet, pero esto también depende del operador móvil. ",
-      "Bluetooth 4.2 + A2DP, WiFi 802.11 a/b/g/n/ac (2.4Ghz, 5Ghz) + MIMO y NFC.",
-      "Batería, 138 gramos y es un terminal muy delgado con solamente 7,1mm. "
-    ]
-  },
-  {
-    "modelo": "IPHONE 7 128 GB",
-    "precio": "179",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE732GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE732GB/2.png"
-    ],
-    "info": [
-      "IOS con procesador de 2.34Ghz Quad-Core.",
-      "Tarjeta SIM.",
-      "450 Mbps para la navegación por Internet, pero esto también depende del operador móvil. ",
-      "Bluetooth 4.2 + A2DP, WiFi 802.11 a/b/g/n/ac (2.4Ghz, 5Ghz) + MIMO y NFC.",
-      "Batería, 138 gramos y es un terminal muy delgado con solamente 7,1mm. "
-    ]
-  },
-  {
-    "modelo": "IPHONE 7 PLUS 32 GB",
-    "precio": "245",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE732GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE732GB/2.png"
-    ],
-    "info": [
-      "IOS con procesador de 2.34Ghz Quad-Core.",
-      "Tarjeta SIM.",
-      "450 Mbps para la navegación por Internet, pero esto también depende del operador móvil. ",
-      "Bluetooth 4.2 + A2DP, WiFi 802.11 a/b/g/n/ac (2.4Ghz, 5Ghz) + MIMO y NFC.",
-      "Batería, 138 gramos y es un terminal muy delgado con solamente 7,3mm. "
-    ]
-  },
-  {
-    "modelo": "IPHONE 7 PLUS 128 GB",
-    "precio": "279",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE732GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE732GB/2.png"
-    ],
-    "info": [
-      "Pantalla: 5.5, 1080 x 1920 pixels.",
-      "Procesador: Apple A10 Fusion.",
-      "RAM: 3GB. "
-    ]
-  },
-  {
-    "modelo": "IPHONE 8 64 GB",
-    "precio": "240",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE864GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE864GB/2.png"
-    ],
-    "info": [
-      "Pantalla: 4.7, 1334 x 750 pixels.",
-      "Procesador: Apple A11 Bionic.",
-      "RAM: 2GB. ",
-      "Expansión: sin microSD. "
-    ]
-  },
-  {
-    "modelo": "IPHONE 8 128 GB",
-    "precio": "258",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE864GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE864GB/2.png"
-    ],
-    "info": [
-      "Pantalla: 4.7, 1334 x 750 pixels.",
-      "Procesador: Apple A11 Bionic.",
-      "RAM: 2GB.",
-      "Expansión: sin microSD."
-    ]
-  },
-  {
-    "modelo": "IPHONE 8 256 GB",
-    "precio": "270",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE864GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE864GB/2.png"
-    ],
-    "info": [
-      "Pantalla. Pantalla Retina HD. Con tecnología IPS 1334 x 750 pixeles, 4.7 pulgadas.",
-      "Memoria. Interna: 256 GB.",
-      "Cámara frontal: 7 megapixeles.",
-      "Cámara trasera: 12 megapixeles.",
-      "Procesador. Chip A11 Bionic.",
-      "Conexiones Inalámbricas. NFC. USB. Wi Fi. Bluetooth V 5.0.",
-      "Sistema Operativo. iOS 11."
-    ]
-  },
-  {
-    "modelo": "IPHONE 8 PLUS 64 GB",
-    "precio": "329",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE8PLUS64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE8PLUS64GB/2.png"
-    ],
-    "info": [
-      "Pantalla: 5.5, 1080 x 1920 pixels.",
-      "Procesador: Apple A11 Bionic.",
-      "RAM: 3GB.",
-      "Expansión: sin microSD."
-    ]
-  },
-  {
-    "modelo": "IPHONE 8 PLUS 256 GB",
-    "precio": "365",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE8PLUS64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE8PLUS64GB/2.png"
-    ],
-    "info": [
-      "Pantalla: 5.5, 1080 x 1920 pixels.",
-      "Procesador: Apple A11 Bionic.",
-      "RAM: 3GB.",
-      "Expansión: sin microSD."
-    ]
-  },
-  {
-    "modelo": "IPHONE X 64 GB",
-    "precio": "385",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEX64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEX64GB/2.png"
-    ],
-    "info": [
-      "Pantalla: 5.8, 1125 x 2436 pixels.",
-      "Procesador: Apple A11 Bionic.",
-      "RAM: 3GB.",
-      "Expansión: sin microSD."
-    ]
-  },
-  {
-    "modelo": "IPHONE X 128 GB",
-    "precio": "",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEX64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEX64GB/2.png"
-    ],
-    "info": [
-      "Pantalla Super Retina HD.",
-      "Pantalla OLED Multi-Touch de 5,8 pulgadas (en diagonal).",
-      "Pantalla HDR.",
-      "Resolución de 2.436 por 1.125 píxeles a 458 p/p.",
-      "Contraste de 1.000.000:1 (típico).",
-      "Pantalla True Tone.",
-      "Pantalla con gama cromática amplia (P3).",
-      "3D Touch."
-    ]
-  },
-  {
-    "modelo": "IPHONE X 256 GB",
-    "precio": "395",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEX64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEX64GB/2.png"
-    ],
-    "info": [
-      "Pantalla: 5.8, 1125 x 2436 pixels.",
-      "Procesador: Apple A11 Bionic.",
-      "RAM: 3GB.",
-      "Expansión: sin microSD."
-    ]
-  },
-  {
-    "modelo": "IPHONE XR 64 GB",
-    "precio": "390",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEXR64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEXR64GB/2.png"
-    ],
-    "info": [
-      "Pantalla: 6.1, 828 x 1792 pixels.",
-      "Procesador: Apple A12 Bionic.",
-      "RAM: 3GB.",
-      "Expansión: sin microSD."
-    ]
-  },
-  {
-    "modelo": "IPHONE XR 128 GB",
-    "precio": "410",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEXR64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEXR64GB/2.png"
-    ],
-    "info": [
-      "Pantalla Liquid Retina HD.",
-      "Pantalla LCD Multi-Touch de 6.1 pulgadas (diagonal) sin marco y con tecnología IPS.",
-      "Resolución de 1792 x 828 pixeles a 326 ppi.",
-      "Relación de contraste 1400:1 (normal).",
-      "Pantalla True Tone.",
-      "Pantalla con amplia gama de colores (P3)",
-      "Toque con respuesta háptica.",
-      "Brillo máximo de 625 nits (normal)."
-    ]
-  },
-  {
-    "modelo": "IPHONE XMAX 64 GB",
-    "precio": "495",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEXMAX64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEXMAX64GB/2.png"
-    ],
-    "info": [
-      "Pantalla Super Retina HD.",
-      "Pantalla OLED Multi‑Touch de 6,5 pulgadas (en diagonal).",
-      "Pantalla HDR.",
-      "Resolución de 2.688 por 1.242 píxeles a 458 p/p.",
-      "Contraste de 1.000.000:1 (típico).",
-      "Pantalla True Tone.",
-      "Pantalla con gama cromática amplia (P3).",
-      "3D Touch."
-    ]
-  },
-  {
-    "modelo": "IPHONE XMAX 256 GB",
-    "precio": "565",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEXMAX64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEXMAX64GB/2.png"
-    ],
-    "info": [
-      "Pantalla: 6.5, 1242 x 2688 pixels.",
-      "Procesador: Apple A12 Bionic.",
-      "RAM: 4GB.",
-      "Expansión: sin microSD."
-    ]
-  },
-  {
-    "modelo": "IPHONE XMAX 512 GB",
+    "modelo": "IPHONE X MAX 512 GB",
     "precio": "580",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEXMAX64GB/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEXMAX64GB/2.png"
+      "/assets/productos/IPHONEXMAX64GB/1.png",
+      "/assets/productos/IPHONEXMAX64GB/2.png"
     ],
     "info": [
       "Pantalla: 6.5, 1242 x 2688 pixels.",
       "Procesador: Apple A12 Bionic.",
-      "RAM: 4GB.",
-      "Expansión: sin microSD."
-    ]
-  },
-  {
-    "modelo": "IPHONE 11 64 GB",
-    "precio": "",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE11/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE11/2.png"
-    ],
-    "info": [
-      "Pantalla: 6.1, 828 x 1792 pixels.",
-      "Procesador: Apple A13 Bionic.",
-      "RAM: 4GB.",
-      "Expansión: sin microSD."
-    ]
-  },
-  {
-    "modelo": "IPHONE 11 128 GB",
-    "precio": "",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE11/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE11/2.png"
-    ],
-    "info": [
-      "Pantalla: 6.1, 828 x 1792 pixels.",
-      "Procesador: Apple A13 Bionic.",
-      "RAM: 4GB.",
-      "Expansión: sin microSD."
-    ]
-  },
-  {
-    "modelo": "IPHONE 11 256 GB",
-    "precio": "",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE11/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE11/2.png"
-    ],
-    "info": [
-      "Pantalla: 6.1, 828 x 1792 pixels.",
-      "Procesador: Apple A13 Bionic.",
-      "RAM: 4GB.",
-      "Expansión: sin microSD."
-    ]
-  },
-  {
-    "modelo": "IPHONE 11 PRO 128 GB",
-    "precio": "",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE11PRO/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE11PRO/2.png"
-    ],
-    "info": [
-      "Super Retina XDR.",
-      "Pantalla OLED Multi‑Touch de 5,8 pulgadas (en diagonal)",
-      "Pantalla HDR.",
-      "Resolución de 2.436 por 1.125 píxeles a 458 p/p.",
-      "Contraste de 2.000.000:1 (típico).",
-      "Pantalla True Tone.",
-      "Pantalla con gama cromática amplia (P3).",
-      "Respuesta háptica."
-    ]
-  },
-  {
-    "modelo": "IPHONE 11 PRO 256 GB",
-    "precio": "",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE11PRO/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE11PRO/2.png"
-    ],
-    "info": [
-      "Procesador de 2.65Ghz Hexa-Core que permite ejecutar juegos y aplicaciones pesadas..",
-      "Tarjeta SIM.",
-      "1024 Mbps para la navegación por Internet.",
-      "Bluetooth 5.0 + A2DP/LE, WiFi 802.11 a/b/g/n/ac/ax (2.4Ghz, 5Ghz) Wifi6 + MIMO y NFC.",
-      "Batería, 188 gramos y es un terminal muy delgado con solamente 8,1mm.."
-    ]
-  },
-  {
-    "modelo": "IPHONE 11 PRO MAX 128 GB",
-    "precio": "",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE11PROMAX/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE11PROMAX/2.png"
-    ],
-    "info": [
-      "Super Retina XDR.",
-      "Pantalla OLED Multi‑Touch de 6,5 pulgadas (en diagonal)",
-      "Pantalla HDR.",
-      "Resolución de 2.688 por 1.242 píxeles a 458 p/p.",
-      "Contraste de 2.000.000:1 (típico).",
-      "Pantalla True Tone.",
-      "Pantalla con gama cromática amplia (P3).",
-      "Respuesta háptica."
-    ]
-  },
-  {
-    "modelo": "IPHONE 11 PRO MAX 256 GB",
-    "precio": "",
-    "marca": "Iphone",
-    "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONE11PROMAX/1.png",
-      "https://nextouchonline.com/assets/items/IPHONE11PROMAX/2.png"
-    ],
-    "info": [
-      "Pantalla: 6.5, 1242 x 2688 pixels.",
-      "Procesador: Apple A13 Bionic.",
       "RAM: 4GB.",
       "Expansión: sin microSD."
     ]
@@ -1234,8 +661,8 @@
     "precio": "420",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEXS/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEXS/2.png"
+      "/assets/productos/IPHONEXS/1.png",
+      "/assets/productos/IPHONEXS/2.png"
     ],
     "info": [
       "Procesador de 2.25Ghz Hexa-Core.",
@@ -1250,8 +677,8 @@
     "precio": "465",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEXS/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEXS/2.png"
+      "/assets/productos/IPHONEXS/1.png",
+      "/assets/productos/IPHONEXS/2.png"
     ],
     "info": [
       "Procesador de 2.25Ghz Hexa-Core que permite ejecutar juegos y aplicaciones pesadas.",
@@ -1266,8 +693,8 @@
     "precio": "490",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEXS/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEXS/2.png"
+      "/assets/productos/IPHONEXS/1.png",
+      "/assets/productos/IPHONEXS/2.png"
     ],
     "info": [
       "Procesador de 2.25Ghz Hexa-Core que permite ejecutar juegos y aplicaciones pesadas.",
@@ -1282,8 +709,8 @@
     "precio": "330",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEXS/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEXS/2.png"
+      "/assets/productos/IPHONESE/1.png",
+      "/assets/productos/IPHONESE/2.png"
     ],
     "info": [
       "Acabado. Negro, blanco.",
@@ -1300,8 +727,8 @@
     "precio": "370",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEXS/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEXS/2.png"
+      "/assets/productos/IPHONESE/1.png",
+      "/assets/productos/IPHONESE/2.png"
     ],
     "info": [
       "Pantalla Retina HD.",
@@ -1319,8 +746,8 @@
     "precio": "385",
     "marca": "Iphone",
     "imagenes": [
-      "https://nextouchonline.com/assets/items/IPHONEXS/1.png",
-      "https://nextouchonline.com/assets/items/IPHONEXS/2.png"
+      "/assets/productos/IPHONESE/1.png",
+      "/assets/productos/IPHONESE/2.png"
     ],
     "info": [
       "Pantalla: 4.7, 750 x 1334 pixels.",
