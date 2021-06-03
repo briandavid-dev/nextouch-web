@@ -1,6 +1,6 @@
 [
   {
-    "modelo": "IPHONE 6S 16 GB",
+    "modelo": "IPHONE 6S | 16 GB",
     "precio": "110",
     "marca": "Iphone",
     "imagenes": [
@@ -16,7 +16,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 6S 32 GB",
+    "modelo": "IPHONE 6S | 32 GB",
     "precio": "120",
     "marca": "Iphone",
     "imagenes": [
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 6S 64 GB",
+    "modelo": "IPHONE 6S | 64 GB",
     "precio": "130",
     "marca": "Iphone",
     "imagenes": [
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 6S 128 GB",
+    "modelo": "IPHONE 6S | 128 GB",
     "precio": "140",
     "marca": "Iphone",
     "imagenes": [
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 6S PLUS 16 GB",
+    "modelo": "IPHONE 6S PLUS | 16 GB",
     "precio": "150",
     "marca": "Iphone",
     "imagenes": [
@@ -79,7 +79,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 6S PLUS 32 GB",
+    "modelo": "IPHONE 6S PLUS | 32 GB",
     "precio": "160",
     "marca": "Iphone",
     "imagenes": [
@@ -95,7 +95,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 6S PLUS 64 GB",
+    "modelo": "IPHONE 6S PLUS | 64 GB",
     "precio": "170",
     "marca": "Iphone",
     "imagenes": [
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 6S PLUS 128 GB",
+    "modelo": "IPHONE 6S PLUS | 128 GB",
     "precio": "180",
     "marca": "Iphone",
     "imagenes": [
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 7 32 GB",
+    "modelo": "IPHONE 7 | 32 GB",
     "precio": "135",
     "marca": "Iphone",
     "imagenes": [
@@ -142,7 +142,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 7 128 GB",
+    "modelo": "IPHONE 7 | 128 GB",
     "precio": "149",
     "marca": "Iphone",
     "imagenes": [
@@ -158,7 +158,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 7 256 GB",
+    "modelo": "IPHONE 7 | 256 GB",
     "precio": "189",
     "marca": "Iphone",
     "imagenes": [
@@ -173,7 +173,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 7 PLUS 32 GB",
+    "modelo": "IPHONE 7 PLUS | 32 GB",
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
@@ -189,7 +189,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 7 PLUS 128 GB",
+    "modelo": "IPHONE 7 PLUS | 128 GB",
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
@@ -203,7 +203,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 7 PLUS 256 GB",
+    "modelo": "IPHONE 7 PLUS | 256 GB",
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
@@ -218,7 +218,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 8 64 GB",
+    "modelo": "IPHONE 8 | 64 GB",
     "precio": "181",
     "marca": "Iphone",
     "imagenes": [
@@ -233,7 +233,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 8 128 GB",
+    "modelo": "IPHONE 8 | 128 GB",
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
@@ -248,7 +248,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 8 256 GB",
+    "modelo": "IPHONE 8 | 256 GB",
     "precio": "213",
     "marca": "Iphone",
     "imagenes": [
@@ -265,7 +265,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 8 PLUS 64 GB",
+    "modelo": "IPHONE 8 PLUS | 64 GB",
     "precio": "276",
     "marca": "Iphone",
     "imagenes": [
@@ -280,7 +280,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 8 PLUS 128 GB",
+    "modelo": "IPHONE 8 PLUS | 128 GB",
     "precio": "N/A",
     "marca": "Iphone",
     "imagenes": [
@@ -299,7 +299,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 8 PLUS 256 GB",
+    "modelo": "IPHONE 8 PLUS | 256 GB",
     "precio": "308",
     "marca": "Iphone",
     "imagenes": [
@@ -314,7 +314,7 @@
     ]
   },
   {
-    "modelo": "IPHONE X 64 GB",
+    "modelo": "IPHONE X | 64 GB",
     "precio": "299",
     "marca": "Iphone",
     "imagenes": [
@@ -329,7 +329,7 @@
     ]
   },
   {
-    "modelo": "IPHONE X 256 GB",
+    "modelo": "IPHONE X | 256 GB",
     "precio": "345",
     "marca": "Iphone",
     "imagenes": [
@@ -344,7 +344,7 @@
     ]
   },
   {
-    "modelo": "IPHONE XR 64 GB",
+    "modelo": "IPHONE XR | 64 GB",
     "precio": "324",
     "marca": "Iphone",
     "imagenes": [
@@ -359,7 +359,7 @@
     ]
   },
   {
-    "modelo": "IPHONE XR 128 GB",
+    "modelo": "IPHONE XR | 128 GB",
     "precio": "375",
     "marca": "Iphone",
     "imagenes": [
@@ -378,7 +378,7 @@
     ]
   },
   {
-    "modelo": "IPHONE XR 256 GB",
+    "modelo": "IPHONE XR | 256 GB",
     "precio": "390",
     "marca": "Iphone",
     "imagenes": [
@@ -394,7 +394,7 @@
     ]
   },
   {
-    "modelo": "IPHONE XS 64 GB",
+    "modelo": "IPHONE XS | 64 GB",
     "precio": "327",
     "marca": "Iphone",
     "imagenes": [
@@ -410,7 +410,7 @@
     ]
   },
   {
-    "modelo": "IPHONE XS 256 GB",
+    "modelo": "IPHONE XS | 256 GB",
     "precio": "385",
     "marca": "Iphone",
     "imagenes": [
@@ -426,7 +426,7 @@
     ]
   },
   {
-    "modelo": "IPHONE XS 512 GB",
+    "modelo": "IPHONE XS | 512 GB",
     "precio": "N/A",
     "marca": "Iphone",
     "imagenes": [
@@ -442,7 +442,7 @@
     ]
   },
   {
-    "modelo": "IPHONE XS MAX 64 GB",
+    "modelo": "IPHONE XS MAX | 64 GB",
     "precio": "446",
     "marca": "Iphone",
     "imagenes": [
@@ -461,7 +461,7 @@
     ]
   },
   {
-    "modelo": "IPHONE XS MAX 256 GB",
+    "modelo": "IPHONE XS MAX | 256 GB",
     "precio": "513",
     "marca": "Iphone",
     "imagenes": [
@@ -476,7 +476,7 @@
     ]
   },
   {
-    "modelo": "IPHONE XS MAX 512 GB",
+    "modelo": "IPHONE XS MAX | 512 GB",
     "precio": "523",
     "marca": "Iphone",
     "imagenes": [
@@ -491,7 +491,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 11 64 GB",
+    "modelo": "IPHONE 11 | 64 GB",
     "precio": "499",
     "marca": "Iphone",
     "imagenes": [
@@ -506,7 +506,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 11 128 GB",
+    "modelo": "IPHONE 11 | 128 GB",
     "precio": "559",
     "marca": "Iphone",
     "imagenes": [
@@ -521,7 +521,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 11 256 GB",
+    "modelo": "IPHONE 11 | 256 GB",
     "precio": "570",
     "marca": "Iphone",
     "imagenes": [
@@ -536,7 +536,7 @@
     ]
   },
   {
-    "modelo": "IPHONE SE 2020 64 GB",
+    "modelo": "IPHONE SE 2020 | 64 GB",
     "precio": "269",
     "marca": "Iphone",
     "imagenes": [
@@ -554,7 +554,7 @@
     ]
   },
   {
-    "modelo": "IPHONE SE 2020 128 GB",
+    "modelo": "IPHONE SE 2020 | 128 GB",
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
@@ -573,7 +573,7 @@
     ]
   },
   {
-    "modelo": "IPHONE SE 2020 256 GB",
+    "modelo": "IPHONE SE 2020 | 256 GB",
     "precio": "",
     "marca": "Iphone",
     "imagenes": [
@@ -588,7 +588,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 11 PRO 64 GB",
+    "modelo": "IPHONE 11 PRO | 64 GB",
     "precio": "626",
     "marca": "Iphone",
     "imagenes": [
@@ -607,7 +607,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 11 PRO 256 GB",
+    "modelo": "IPHONE 11 PRO | 256 GB",
     "precio": "712",
     "marca": "Iphone",
     "imagenes": [
@@ -623,7 +623,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 11 PRO 512 GB",
+    "modelo": "IPHONE 11 PRO | 512 GB",
     "precio": "729",
     "marca": "Iphone",
     "imagenes": [
@@ -638,7 +638,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 11 PRO MAX 64 GB",
+    "modelo": "IPHONE 11 PRO MAX | 64 GB",
     "precio": "723",
     "marca": "Iphone",
     "imagenes": [
@@ -656,7 +656,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 11 PRO MAX 256 GB",
+    "modelo": "IPHONE 11 PRO MAX | 256 GB",
     "precio": "830",
     "marca": "Iphone",
     "imagenes": [
@@ -671,7 +671,7 @@
     ]
   },
   {
-    "modelo": "IPHONE 11 PRO MAX 512 GB",
+    "modelo": "IPHONE 11 PRO MAX | 512 GB",
     "precio": "853",
     "marca": "Iphone",
     "imagenes": [

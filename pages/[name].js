@@ -9,6 +9,7 @@ import jsonIphone from "../config/iphone.json";
 import jsonXiaomi from "../config/xiaomi.json";
 import jsonSamsung from "../config/samsung.json";
 import jsonAlcatel from "../config/alcatel.json";
+import iphoneAlMayor from "../config/iphoneAlMayor.json";
 import MenuBar from "../components/Header/MenuBar";
 import ProductosIphone from "../components/Home/ProductosIphone";
 import ProductosSamsung from "../components/Home/ProductosSamsung";
@@ -21,6 +22,7 @@ const celularesMerge = [
   ...jsonXiaomi,
   ...jsonSamsung,
   ...jsonAlcatel,
+  ...iphoneAlMayor,
 ];
 
 const stylesCss = css.global`
